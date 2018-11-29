@@ -52,11 +52,12 @@ This POS tags are essentially linguistic features. An example can be found in <a
 
 <b>To do this, simply open your console and type: "python tag_corpus.py". </b>
 
-This will take all the sentences from the ".txt" files and generate individual POS tags for each sentence. After this, those tags will be dumped in <a href="https://docs.python.org/2/library/pickle.html">pickles</a>.
-
 ```python
 python tag_corpus.py
 ```
+
+This will take all the sentences from the ".txt" files and generate individual POS tags for each sentence. After this, those tags will be dumped in <a href="https://docs.python.org/2/library/pickle.html">pickles</a>.
+
 
 <h4>3. Train the classifier</h4>
 
@@ -75,8 +76,6 @@ This will train a new classifier and save the model in "data/classifiers", also 
 
 To change the language you have to simply choose a different model in the "spacy_utils/pos_tag.py" file from the ones available in <a href="https://spacy.io/usage/models">Spacy models</a>.
 By the way, remember that the language of the initial tagged corpus has to correspond the language you use for the model, but the <chequeable></chequeable> tags are still the same.
-
-<h3>USAGE</h3>
 
 To use your classifier you will first have to load it:
 
