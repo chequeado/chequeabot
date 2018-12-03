@@ -16,7 +16,7 @@ Once we have those sentences tagged, we generate <a href="https://en.wikipedia.o
 
 <h4>Install required Python libraries</h4>
 
-You can easilly install all the required libraries using pip:
+You can easily install all the required libraries using pip:
 
 ```python
 pip install -r requirements.txt
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 <h4>1. Manually label fact-checkable sentences</h4>
 
 First of all you will need to tag a large amount of text with "\<chequeable\>\</chequeable\>" tags. 
-To do this, find texts that are likely to have fact-checkable claims. For our example, we downloaded some presidential speechs from <a href="https://www.casarosada.gob.ar/informacion/discursos">here</a> and tagged the fact-checkable sentences. Here's an example:
+To do this, find texts that are likely to have fact-checkable claims. For our example, we downloaded some presidential speeches from <a href="https://www.casarosada.gob.ar/informacion/discursos">here</a> and tagged the fact-checkable sentences. Here's an example:
 
         Algunos datos importantes vinculados a este informe de Agricultura y Ganadería y la ayuda que la FAO reconoce que hemos dado los productores, 
         además de los 54 mil millones, <chequeable>hoy la Argentina está produciendo en su sector agroalimentario alimentos para 400 millones de personas</chequeable>.
@@ -44,7 +44,7 @@ Once you have tagged those files, dump them in ".txt" format in the "data/tagged
 
 <h4>2. Save Part-Of-Speech tags</h4>
 
-<i>The use of the word "tag" may be confusing as this proccess requires us to do two taggins. First, the "fact-checkable" or not tagging and then POS tag. To refer to the lather we will us always the term "POS tag" or "POS tagging".</i>
+<i>The use of the word "tag" may be confusing as this process requires us to do two taggins. First, the "fact-checkable" or not tagging and then POS tag. To refer to the lather we will us always the term "POS tag" or "POS tagging".</i>
 
 For this step we created a module called "tag_corpus.py", which loads all the ".txt" files in the "data/tagged_corpus" folder, generates POS tags, and dumps them in the "data/pos_sentences" folder.
 This POS tags are essentially linguistic features. An example can be found in <a href="https://spacy.io/usage/linguistic-features#section-pos-tagging">this section</a>.
