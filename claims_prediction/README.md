@@ -1,7 +1,7 @@
 <h1>FACT-CHECKABLE CLAIMS PREDICTION</h1>
 
 This project, written in Python 2.7, allows you to train a classifier that can predict if a claim is fact-checkable or not.
-At<a href="https://chequeado.com">Chequeado</a> we are using a solution that is more customized and complex, which we are hoping to make open source soon. Nevertheless, this current uploaded version is good enough to get accurate results if you train your model with a proper sized set of manually tagged sentences.
+At <a href="https://chequeado.com">Chequeado</a> we are using a solution that is more customized and complex, which we are hoping to make open source soon. Nevertheless, this current uploaded version is good enough to get accurate results if you train your model with a proper sized set of manually tagged sentences.
 
 <h3>OVERVIEW</h3>
 
