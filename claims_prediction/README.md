@@ -1,16 +1,15 @@
 <h1>FACT-CHECKABLE CLAIMS PREDICTION</h1>
 
 This project, written in Python 2.7, allows you to train a classifier that can predict if a claim is fact-checkable or not.
-We at Chequeado are using a more customized and complex solution that we're working to open source soon, but this current uploaded
-version is good enough to get accurate results if you train your model with a proper sized set of manually tagged sentences.
+At<a href="https://chequeado.com">Chequeado</a> we are using a solution that is more customized and complex, which we are hoping to make open source soon. Nevertheless, this current uploaded version is good enough to get accurate results if you train your model with a proper sized set of manually tagged sentences.
 
 <h3>OVERVIEW</h3>
 
 We extract features from a set of sentences using NLP (Natural Language Processing), and then train a Naive Bayes classifier on those features to detect if a new sentence is fact-checkable or not.
 
-Before training the classifier, we need a create a manually tagged corpus labelling sentences as "fact-checkable" or "non-fact-checkable" in order to train a Machine Learning model, which will then predict the outcome of new, non tagged, claims.
+Before training the classifier we need to create a manually tagged corpus. We do this by labelling sentences as "fact-checkable" or "non-fact-checkable", in order to later train a Machine Learning model. 
 
-After that we generate <a href="https://en.wikipedia.org/wiki/Part-of-speech_tagging" >Part-Of-Speech</a> tags for each sentence, using <a href="https://spacy.io/models/">Spacy</a> and use them to extract the important features from the text. Finally, we use this extracted features to train a Multinomial Naive Bayes classifier and save it to a pickle, so we can re-use it anytime we need.
+Once we have those sentences tagged, we generate <a href="https://en.wikipedia.org/wiki/Part-of-speech_tagging">Part-Of-Speech</a> tags for each sentence, using <a href="https://spacy.io/models/">Spacy</a> and use those to extract the important features from each sentence. Finally, the features are used to train a Machine Learning model (Naive Bayes classifier), that will predict the outcome of new, non-tagged, claims.
 
 
 <h3>QUICK START</h3>
