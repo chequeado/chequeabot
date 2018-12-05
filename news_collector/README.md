@@ -20,17 +20,89 @@ pip install -r requirements.txt
 
 <h4>Create the MySQL database</h4>
 
-To create the db you can use the db_creation.sql file.
+You will need a database to dump all the articles collected. To create it you can use the <b>db_creation.sql</B> file.
+Once you created your database, update the <b>credentials.py.example</b> with your database crendetials and change the file name to <b>credentials.py</b>
 
-Disclaimer: If you don't want to create a database, you can dump all the data
+<i>Disclaimer: If you don't want to create a database, you can dump all the data
 collected by this crawler to a json or csv file changing some simple code. Take 
-a look at the Scrapy documentation for details.
+a look at the Scrapy documentation for details.</i>
 
+<h4> Setup your own spiders </h3>
+
+We have uploaded some of our custom spiders to provide examples, but if you want to add your own sites you will need to create your own spiders. We defined three types of spiders. The work of a spider is splited in two parts.
+First, it must collect all the articles links from a specific section of a news-site. We call this the <i>parse section</i> stage. After that, the spider will travel to each link and extract the article from there. This is the <i>parse article</i> stage.
+
+<h5>Parse section stage</h5>
+
+If the news-site we are scraping has RSS feed, the parse section code will look like this:
+
+```python
+    def parse_seccion(self, response):
+        feed = feedparser.parse(response.url)
+        for entry in feed['entries']:
+            request = scrapy.Request(url=entry['link'], callback=self.parse_noticia)
+            request.meta['item'] = entry           
+            yield request
+```
+
+If RSS is not available we will use xPath to extract those links:
+
+```python
+    def parse_seccion(self, response):
+        # This path goes after each @href inside the summary-news-list of a specific site.
+        # This is relative to each site and you will have to inspect the html of the site to know were to look.
+        noticias = set(response.xpath('//div[@class="summary-news-list"]/article/header/h1/a/@href').extract())
+        for noticia in noticias:
+            yield scrapy.Request(url=noticia, callback=self.parse_noticia)
+```
+<h5> Parse article stage </h5>
+
+For this stage we also have two options. The first one uses <a href="https://newspaper.readthedocs.io/en/latest/">Newspaper library</a> to automatically extract the article title, content, date and autor. This option is very easy to implement and doesn't require any tweaking.
+
+```python
+    def parse_noticia(self, response):
+        ff = newspaper.Article(response.url)
+        ff.download()
+        ff.parse()
+        data = {
+            'titulo': ff.title,
+            'fecha':  datetime.datetime.now(),
+            'noticia_texto': ff.text,
+            'noticia_url': ff.url,
+            'source': 'news_site_name',
+            'formato': 'web'
+        }
+        yield data
+```
+To know if it works you should run the crawler and see if it scrapes correctly the articles content.
+If it doesn't, you will have to tweak this code a little bit and use xPath instead of Newspaper.
+Example:
+```python
+    def parse_noticia(self, response):
+        raw_date =  response.xpath('//p[@class="news-body-paragraph paragraph-date"]/text()').extract()[0]
+        formated_date = datetime.datetime.strptime(fecha_texto.split('-')[1].strip(), '%A  %d de %B de %Y')
+        body = ' '.join([e for e in response.xpath('//div[@id="note-body"]/p/text()').extract()])
+        title = response.xpath('//h1[@class="news-header-title"]/text()').extract()[0]
+        
+        data = {
+            'titulo': title,
+            'fecha': formated_date,
+            'noticia_texto': body,
+            'noticia_url': response.url,
+            'source': 'La Capital',
+            'formato': 'web'
+        }
+
+        yield data
+```
+Examples of spiders implementation can be found in the <i>spiders</i> folder. Check to see which of our spiders fits better in your site.
+
+Spiders that are going to crawl are detailed in the <i>TO_CRAWL</i> list in <i>crawlers.py</i>.
 
 <h4>Running the crawler script</h4>
 
-Once you've installed all the required libraries and created the MySQL database with the
-"feed_entries" table, you can run the crawler with the following command:
+Once you've installed all the required libraries, created the MySQL database with the
+"feed_entries" table, and set up your spider, you can run the crawler with the following command:
 
 ```python
 python crawler.py
