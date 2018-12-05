@@ -27,10 +27,10 @@ Once you created your database, update the <b>credentials.py.example</b> with yo
 collected by this crawler to a json or csv file changing some simple code. Take 
 a look at the Scrapy documentation for details.</i>
 
-<h4> Setup your own spiders </h3>
+<h4> Setup your own spiders </h4>
 
-We have uploaded some of our custom spiders to provide examples, but if you want to add your own sites you will need to create your own spiders. We defined three types of spiders. The work of a spider is splited in two parts.
-First, it must collect all the articles links from a specific section of a news-site. We call this the <i>parse section</i> stage. After that, the spider will travel to each link and extract the article from there. This is the <i>parse article</i> stage.
+We have uploaded some of our custom spiders to provide examples, but if you want to add your own sites you will need to create your own spiders.
+The work of a spider is splited in two parts. First, it must collect all the articles links from a specific section of a news-site. We call this the <i>parse section</i> stage. After that, the spider will travel to each link and extract the article from there. This is the <i>parse article</i> stage.
 
 <h5>Parse section stage</h5>
 
@@ -74,9 +74,11 @@ For this stage we also have two options. The first one uses <a href="https://new
         }
         yield data
 ```
+
 To know if it works you should run the crawler and see if it scrapes correctly the articles content.
 If it doesn't, you will have to tweak this code a little bit and use xPath instead of Newspaper.
 Example:
+
 ```python
     def parse_noticia(self, response):
         raw_date =  response.xpath('//p[@class="news-body-paragraph paragraph-date"]/text()').extract()[0]
@@ -95,7 +97,8 @@ Example:
 
         yield data
 ```
-Examples of spiders implementation can be found in the <i>spiders</i> folder. Check to see which of our spiders fits better in your site.
+
+<b>Examples of spiders implementation can be found in the <i>spiders</i> folder. Check to see which of our spiders fits better in your site.</b>
 
 Spiders that are going to crawl are detailed in the <i>TO_CRAWL</i> list in <i>crawlers.py</i>.
 
