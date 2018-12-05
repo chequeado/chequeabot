@@ -2,15 +2,17 @@
 
 This project, written in Python 3, allows you to collect news articles from several online sources.
 
-<h3>OVERVIEW</h3>
+
+<h2>OVERVIEW</h2>
 
 We use <a href="https://scrapy.org/">Scrapy</a>, an open source framework for extracting data from websites in a clean and 
 scalable way. If you don't know about Scrapy, take a look at their <a href="https://doc.scrapy.org/en/latest/intro/tutorial.html">tutorial</a> to learn how to use it.
 
 
-<h3>QUICK START</h3>
+<h2>QUICK START</h2>
 
-<h4>Install required Python libraries</h4>
+
+<h3>Install required Python libraries</h3>
 
 You can easily install all the required libraries using pip:
 
@@ -18,7 +20,7 @@ You can easily install all the required libraries using pip:
 pip install -r requirements.txt
 ```
 
-<h4>Create the MySQL database</h4>
+<h3>Create the MySQL database</h3>
 
 You will need a database to dump all the articles collected. To create it you can use the <b>db_creation.sql</B> file.
 Once you created your database, update the <b>credentials.py.example</b> with your database crendetials and change the file name to <b>credentials.py</b>
@@ -27,12 +29,15 @@ Once you created your database, update the <b>credentials.py.example</b> with yo
 collected by this crawler to a json or csv file changing some simple code. Take 
 a look at the Scrapy documentation for details.</i>
 
-<h4> Setup your own spiders </h4>
+
+<h3> Setup your own spiders </h3>
 
 We have uploaded some of our custom spiders to provide examples, but if you want to add your own sites you will need to create your own spiders.
 The work of a spider is splited in two parts. First, it must collect all the articles links from a specific section of a news-site. We call this the <i>parse section</i> stage. After that, the spider will travel to each link and extract the article from there. This is the <i>parse article</i> stage.
 
-<h5>Parse section stage</h5>
+
+<h4>Parse SECTION function</h4>
+
 
 If the news-site we are scraping has RSS feed, the parse section code will look like this:
 
@@ -55,7 +60,10 @@ If RSS is not available we will use xPath to extract those links:
         for noticia in noticias:
             yield scrapy.Request(url=noticia, callback=self.parse_noticia)
 ```
-<h5> Parse article stage </h5>
+
+
+
+<h4> Parse ARTICLE function </h4>
 
 For this stage we also have two options. The first one uses <a href="https://newspaper.readthedocs.io/en/latest/">Newspaper library</a> to automatically extract the article title, content, date and autor. This option is very easy to implement and doesn't require any tweaking.
 
@@ -102,7 +110,8 @@ Example:
 
 Spiders that are going to crawl are detailed in the <i>TO_CRAWL</i> list in <i>crawlers.py</i>.
 
-<h4>Running the crawler script</h4>
+
+<h3>Running the crawler script</h3>
 
 Once you've installed all the required libraries, created the MySQL database with the
 "feed_entries" table, and set up your spider, you can run the crawler with the following command:
