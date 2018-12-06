@@ -74,9 +74,10 @@ This will train a new classifier and save the model in "data/classifiers", also 
 <h3>USING IT IN OTHER LANGUAGES</h3> 
 
 To implement the model in other language, there are a few steps to follow.
-1- Change the LANGUAGE variable in constants.py
-2- Create folders inside "tagged_corpus", "pos_sentences" and "classifiers" with the value you specified in LANGUAGE. (Example if you set LANGUAGE="en", then create three "en" folders, one in each data folder.
-3- Change the <a href="https://spacy.io/usage/models#section-available">model</a> in spacy_utils/pos_tagger, and refactor the features_exctractor code to use the <a href="https://spacy.io/api/annotation#section-pos-tagging">tags according to each language</a>. 
+
+1- Change the LANGUAGE variable in constants.py with your <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php">language code</a>.
+2- Create folders inside "tagged_corpus", "pos_sentences" and "classifiers" with the value you specified in LANGUAGE. (Example: if you set LANGUAGE="en", then create three "en" sub-folders, one for each data folder).
+3- Change the <a href="https://spacy.io/usage/models#section-available">training model</a> in spacy_utils/pos_tagger, and refactor the features_exctractor code to use the <a href="https://spacy.io/api/annotation#section-pos-tagging">tags according to each language</a>. 
 
 <h3> USAGE </h3>
 To use your classifier you will first have to load it:
