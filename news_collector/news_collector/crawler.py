@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 import datetime
 
 # import the spiders you want to run
@@ -36,9 +35,6 @@ from scrapy.settings import Settings
 from scrapy.utils.log import configure_logging
 from scrapy.utils.project import get_project_settings
 
-from credentials import *
-
-
 settings = get_project_settings()
 settings = Settings()
 
@@ -57,13 +53,11 @@ TO_CRAWL = [ClarinSpider, InfobaeSpider, LaVozSpider, MinutoUnoSpider, PaginaSpi
 configure_logging()
 runner = CrawlerRunner(settings)
 
-
 @defer.inlineCallbacks
 def crawl():
     for spider in TO_CRAWL:
         yield runner.crawl(spider)
     reactor.stop()
-
 
 crawl()
 reactor.run() # the script will block here until the last crawl call is finished
