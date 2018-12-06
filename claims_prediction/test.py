@@ -1,14 +1,17 @@
 # -*- coding: utf-8 -*-
 import pickle
 import sys
-sys.path.append('../spacy_utils')
-  
+
+# SETTINGS
+from constants import CLASSIFIERS_FOLDER, SPACY_FOLDER
+
+sys.path.append(SPACY_FOLDER)
 from pos_tagger import pos_tag
 import feature_extractors
 
 def load_classifier(name):
     # Loads the classifier pickle
-    f = open('data/classifiers/%s' % name, 'rb')
+    f = open(CLASSIFIERS_FOLDER + name, 'rb')
     classifier = pickle.load(f)
     f.close()
     return classifier
@@ -22,6 +25,8 @@ def classify(classifier,sentence):
     dist = classifier.prob_classify(features)
     confidence_prob = dist.prob(guess)
     return guess, confidence_prob
+
+# CONSTANTS
 
 MODEL_NAME = "classifier-2018-12-06.pickle"
 
@@ -37,6 +42,8 @@ SENTENCES = [
     "En nuestro país muere una mujer cada 30 horas por femicidios",
     "Hemos reducido el gasto en términos reales un 20% en estos cuatro años"
 ]
+
+# TEST
 
 if __name__=='__main__':
     classifier1 = load_classifier(MODEL_NAME)

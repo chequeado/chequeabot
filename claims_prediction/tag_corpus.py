@@ -13,14 +13,20 @@ import re
 import nltk
 import glob
 import sys
-sys.path.append('../spacy_utils')
 
+# SETTINGS
+from constants import TAGGED_FOLDER,POS_TAGGED_FOLDER, SPACY_FOLDER
+
+sys.path.append(SPACY_FOLDER)
 from pos_tagger import pos_tag
 import feature_extractors
 
-# From where we get the files and where to save them
-CORPUS_FOLDER = "data/tagged_corpus/"
-TAGGED_FOLDER = "data/pos_sentences/"
+# TO USE A DIFFERENT LANGUAGE:
+# 1- Create a folder named as the language code (example: "en") in the tagged_corpus and pos_sentences folder.
+# 2- Drop your tagged text files in "tagged_corpus/your_language".
+# 3- Change the language code in settings.py 
+# 3- Run "python tag_corpus.py"
+# 4- The pos_tagged resulting files will appear in "pos_sentences/your_language"
 
 # To split between fact-checkable and not fc
 FACT_CHECKABLE_REGEX = re.compile('<chequeable>([^>]*)</chequeable>') #non greedy regex
@@ -34,7 +40,7 @@ def clean_sentence(sentence):
     return sentence.encode('utf8').replace(',','').replace('.','').replace(';','').replace('[','').replace(']','').replace("(Aplausos.)","").replace("(aplausos)","")        
 
 def get_output_path(name):
-    return name.replace(".txt",".pickle").replace(CORPUS_FOLDER, TAGGED_FOLDER)
+    return name.replace(".txt",".pickle").replace(TAGGED_FOLDER, POS_TAGGED_FOLDER)
 
 def extract_fc_tags(sentences, regex):
     # From a list of sentence, find all the fact-checakble tags in it, else, tag as non fact checkable
@@ -64,8 +70,8 @@ def dataset_tagging():
     # and finally adds pos tags and dumps it in a pickle
     # NOTE: tagging here refers to POS tags, not to the fact-checkable tags (<chequeable>)
 
-    CORPUS_FILES = glob.glob(CORPUS_FOLDER + "*.txt")
-    TAGGED_FILES = glob.glob(TAGGED_FOLDER + "*.pickle")    
+    CORPUS_FILES = glob.glob(TAGGED_FOLDER + "*.txt")
+    TAGGED_FILES = glob.glob(POS_TAGGED_FOLDER + "*.pickle")    
     
     UNTAGGED_FILES = [f for f in CORPUS_FILES if get_output_path(f) not in TAGGED_FILES]
     for filename in UNTAGGED_FILES:

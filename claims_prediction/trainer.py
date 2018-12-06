@@ -11,7 +11,10 @@ from datetime import date
 from random import shuffle
 import sys
 
-sys.path.append('../spacy_utils')  
+# SETTINGS
+from constants import POS_TAGGED_FOLDER, CLASSIFIERS_FOLDER, TRAIN_PERCENTAGE, TEST_PERCENTAGE, SPACY_FOLDER
+
+sys.path.append(SPACY_FOLDER)  
 from feature_extractors import automatic_feature_extractor
 from pos_tagger import pos_tag
 
@@ -52,7 +55,7 @@ def show_metrics(classifier, test_set):
     
     print("PRECISION: Of the sentences predicted fact-checkable, " + str(model_precision) + "% were actually fact-checkable")
     print("RECALL: Of the sentences that were fact-checkable, " + str(model_recall) + "% were predicted correctly")
-    print("F-MEASURE (balance between precission and recall): " + str(model_f_measure)) + "%")
+    print("F-MEASURE (balance between precission and recall): " + str(model_f_measure) + "%")
 
     # Same for non fact-checkables
     #print('non-fact-checkable precision:', precision(refsets['non-fact-checkable'], testsets['non-fact-checkable']))
@@ -77,23 +80,9 @@ def split_dataset(dataset):
 
     return train_values,test_values
 
-# CONSTANTS
-TRAIN_PERCENTAGE = 0.7
-TEST_PERCENTAGE = 0.3
-TAGGED_SENTENCES_FOLDER ="data/pos_sentences/"
-CLASSIFIERS_FOLDER = "data/classifiers/" 
-
-def load_classifier(name):
-    # Loads the classifier pickle
-    f = open('data/classifiers/%s' % name, 'rb')
-    classifier = pickle.load(f)
-    f.close()
-    return classifier
-
-
 if __name__ == "__main__":
     # Load the dataset from pickles and extract features
-    tagged_sentences = get_tagged_sentences(TAGGED_SENTENCES_FOLDER)
+    tagged_sentences = get_tagged_sentences(POS_TAGGED_FOLDER)
     dataset = [(automatic_feature_extractor(sent['pos_tag'], pos_ngrams=True), sent['classification']) for sent in tagged_sentences]
     
     # Train the classifier on "n" folds and establish an average accuracy
