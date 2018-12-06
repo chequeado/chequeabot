@@ -46,13 +46,13 @@ def show_metrics(classifier, test_set):
         observed = classifier.classify(feats) #neg
         testsets[observed].add(i) #1, neg
 
-    # Of the sentences predicted fact-checkable, how many were acctually fact-checkable
-    print('fact-checkable precision:', precision(refsets['fact-checkable'], testsets['fact-checkable']))
-    # Of the sentences that were fact-checkable, how many were predicted correctly
-    print('fact-checkable recall:', recall(refsets['fact-checkable'], testsets['fact-checkable']))
-    # Balance between precision and recall, giving more importance to recall because we dont want to let any 
-    # fact-checkable sentence escape
-    print('fact-checkable F-measure:', f_measure(refsets['fact-checkable'], testsets['fact-checkable'],0.3))
+    model_precision =  int(precision(refsets['fact-checkable'], testsets['fact-checkable'])*100)    
+    model_recall =  int(recall(refsets['fact-checkable'], testsets['fact-checkable'])*100)
+    model_f_measure =  int(f_measure(refsets['fact-checkable'], testsets['fact-checkable'],0.3)*100)
+    
+    print("PRECISION: Of the sentences predicted fact-checkable, " + str(model_precision) + "% were actually fact-checkable")
+    print("RECALL: Of the sentences that were fact-checkable, " + str(model_recall) + "% were predicted correctly")
+    print("F-MEASURE (balance between precission and recall): " + str(model_f_measure)) + "%")
 
     # Same for non fact-checkables
     #print('non-fact-checkable precision:', precision(refsets['non-fact-checkable'], testsets['non-fact-checkable']))
@@ -82,6 +82,14 @@ TRAIN_PERCENTAGE = 0.7
 TEST_PERCENTAGE = 0.3
 TAGGED_SENTENCES_FOLDER ="data/pos_sentences/"
 CLASSIFIERS_FOLDER = "data/classifiers/" 
+
+def load_classifier(name):
+    # Loads the classifier pickle
+    f = open('data/classifiers/%s' % name, 'rb')
+    classifier = pickle.load(f)
+    f.close()
+    return classifier
+
 
 if __name__ == "__main__":
     # Load the dataset from pickles and extract features
