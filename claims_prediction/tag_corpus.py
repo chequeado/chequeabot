@@ -52,8 +52,6 @@ def extract_fc_tags(sentences, regex):
             for claim in fact_checkable_claims:
                 tagged_sentences.append({'classification': 'fact-checkable', 'sentence': claim})
         else:
-            if "aplausos" in sentence:
-                continue
             tagged_sentences.append({'classification': 'non-fact-checkable', 'sentence': sentence})
     return tagged_sentences
 

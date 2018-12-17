@@ -1,0 +1,980 @@
+<chequeable>la economía global se ha estabilizado y se está recuperando</chequeable>
+<chequeable>La AUH permitió sacar de la pobreza a dos millones de personas</chequeable>
+<chequeable>El plan estratégico agroalimentario es un logro histórico</chequeable>
+<chequeable>Chaco ha obtenido el 9,7 de mortalidad infantil</chequeable>
+<chequeable>El que vivía en la villa sigue en la villa y el que alquilaba sigue alquilando</chequeable>
+<chequeable>La producción de YPF va cayendo mes a mes</chequeable>
+<chequeable>La tasa de mortalidad infantil, de un 15 por mil cayó a 12,5 por mil</chequeable>
+<chequeable>La Provincia va a dejar un déficit de entre $8 mil y $10 mil millones</chequeable>
+<chequeable>El narcotráfico ha aumentado de manera alarmante</chequeable>
+<chequeable>Hay más presupuesto para el Ministerio de Ciencia y Tecnología</chequeable>
+<chequeable>Hemos ensanchado el área sembrada en más de dos millones de hectáreas</chequeable>
+<chequeable>Yo dije que en el segundo semestre iba a bajar drásticamente la inflación y sucedió</chequeable>
+<chequeable>Aerolíneas Argentinas pierde la mitad de lo que perdía durante el kirchnerismo</chequeable>
+<chequeable>El delito aumenta cada vez más en la provincia de Buenos Aires</chequeable>
+<chequeable>los argentinos pagan más por un smartphone que sus vecinos de la región</chequeable>
+<chequeable>Argentina sufre una fuerte caída de la calidad educativa</chequeable>
+<chequeable>Este fue uno de los peores años parlamentarios</chequeable>
+<chequeable>La Policía Federal no actúa en problemas sociales con armas de fuego desde julio de 2004</chequeable>
+<chequeable>Argentina es el único país de los grandes exportadores agroganaderos donde el Estado no interviene</chequeable>
+<chequeable>La usurpación es un delito que corresponde a la Ciudad</chequeable>
+<chequeable>"Para reducir los gases de efecto invernadero no hay 150 soluciones; está la nuclear"</chequeable>
+<chequeable>Somos el país con mayor desarrollo en empresas de biotecnología en toda América latina</chequeable>
+<chequeable>Paraguay era el primer país industrial de la región</chequeable>
+<chequeable>La medicina prepaga es un seguro</chequeable>
+<chequeable>El impacto de la Asignación Universal fue realmente muy importante</chequeable>
+<chequeable>El 40% de los trabajadores que entran al estado están precarizados</chequeable>
+<chequeable>La situación social económica no es muy distinta de lo que era en el año 1995 o el año 1997</chequeable>
+<chequeable>La AUH es el plan más importante de destinar parte del PBI a los sectores más vulnerables de la sociedad</chequeable>
+<chequeable>Tenemos la menor presión tributaria de la Argentina</chequeable>
+<chequeable>El drama de los niños desaparecidos se ha incrementado exponencialmente</chequeable>
+<chequeable>La universidad argentina no es más inclusiva que la chilena</chequeable>
+<chequeable>La Argentina fue el país de América Latina que más depreció su moneda en los últimos años</chequeable>
+<chequeable>Hubo un crecimiento para el año 2011 de 9,2</chequeable>
+<chequeable>un chequeo a sus anuncios y logros en su discurso</chequeable>
+<chequeable>El 11% de los argentinos compra dólares</chequeable>
+<chequeable>El 70% de los ingresos se va a través de la presión impositiva</chequeable>
+<chequeable>Si el contrato es en moneda extranjera, se deberá cumplir lo que establece el contrato</chequeable>
+<chequeable>Hay más de un millón de trabajadores que no llegan al salario mínimo</chequeable>
+<chequeable>Hoy existe el mismo déficit de viviendas que en 2007</chequeable>
+<chequeable>No hay deuda con la provincia de Córdoba</chequeable>
+<chequeable>La inseguridad ha producido en sus años de gobierno de los Kirchner 20 mil muertos</chequeable>
+<chequeable>Los programas sociales representan el 1,2% de nuestro PBI y son los más importantes de Latinoamérica</chequeable>
+<chequeable>Los trabajadores de las fuerzas de seguridad pública pueden sindicalizarse</chequeable>
+<chequeable>La Argentina se extranjerizó más que en la época de Menem; profundizó la extranjerización</chequeable>
+<chequeable>En las cárceles federales hay condiciones de alojamiento adecuadas, sin el problema de la superpoblación</chequeable>
+<chequeable>El gravamen  de la Ley de Hábitat es absolutamente excesivo</chequeable>
+<chequeable>La inflación ya se comió el 60% de la Asignación Universal por Hijo</chequeable>
+<chequeable>Los jueces, abogados y académicos del Consejo de la Magistratura tienen que ser votados por sus conciudadanos; está en absoluta regla con lo que establece la Constitución</chequeable>
+<chequeable>Uruguay no es un paraíso fiscal</chequeable>
+<chequeable>La inseguridad ha producido en sus años de gobierno de los Kirchner 20 mil muertos</chequeable>
+<chequeable>"La corrupción es la madre de la pobreza"</chequeable>
+<chequeable>El 40% de los niños y adolescentes de 0 a 17 años son pobres</chequeable>
+<chequeable>En los últimos años los empleados del Estado han ido perdiendo poder adquisitivo</chequeable>
+<chequeable>La Nación se está quedando con casi el 77 o 78% de los recursos</chequeable>
+<chequeable>Ningún acuerdo de precios ha parado la inflación</chequeable>
+<chequeable>Con $2.000 millones urbanizás todas las villas de la Ciudad de Buenos Aires</chequeable>
+<chequeable>Votó el 90% de las veces en contra nuestra y el 10% a favor</chequeable>
+<chequeable>No podemos aceptar la pobreza  que acompaña al 40% de nuestros niños</chequeable>
+<chequeable>Entre Ríos es la provincia que más creció en estos años</chequeable>
+<chequeable>Macri en ocho años ha hecho menos subtes que De la Rúa en tres años de gestión de gobierno</chequeable>
+<chequeable>En la Ciudad hay un 20% de viviendas vacías</chequeable>
+<chequeable>La mitad de los que reciben el título secundario no comprende textos</chequeable>
+<chequeable>El kirchnerismo dejará peores indicadores económicos que los del menemismo</chequeable>
+<chequeable>La Argentina es el país de la región donde más creció la clase media</chequeable>
+<chequeable>En Jujuy tenemos  85 mil empleados públicos y sólo 55 mil puestos en la actividad privada</chequeable>
+<chequeable>La inflación ya es mucho más baja de lo que era antes de que asumiera Macri</chequeable>
+<chequeable>Desde el año 2008 a 2015 incluimos 57.079 estudiantes al sistema</chequeable>
+<chequeable>En estos meses hubo 200 mil empleos menos</chequeable>
+<chequeable>Uno de cada tres empleos se genera en forma directa o indirecta por el campo argentino</chequeable>
+<chequeable>Con Cristina  7/10 alumnos son 1° generación de universitarios</chequeable>
+<chequeable>No ha sucedido que la inflación superara la paritaria docente</chequeable>
+<chequeable>El sector agropecuario es responsable de un tercio de la mano de obra de nuestro país</chequeable>
+<chequeable>Después de casi dos años de gobierno la inflación es más alta que en el 2015</chequeable>
+<chequeable>En la Argentina bajó el nivel de inseguridad</chequeable>
+<chequeable>Argentina, a la cola de un índice de democracia</chequeable>
+<chequeable>8 de cada 10 empleos son registrados</chequeable>
+<chequeable>En ningún país del mundo un gobierno se rige con un presupuesto opositor</chequeable>
+<chequeable>fuerte reducción de la pobreza en el país</chequeable>
+<chequeable>Las exportaciones industriales superan a las agropecuarias</chequeable>
+<chequeable>Usaría las reservas para hacer viviendas</chequeable>
+<chequeable>Este sistema de voto electrónico garantiza la transparencia y la imposibilidad de alterar el resultado</chequeable>
+<chequeable>El 40% de los argentinos gana menos de $800</chequeable>
+<chequeable>En el área metropolitana el 62% de los colectivos ya puede cobrar con SUBE</chequeable>
+<chequeable>La Argentina es el país más proteccionista del mundo</chequeable>
+<chequeable>Argentina no fue incluida en la lista de los países con deficiencias, sino en la de los cooperantes</chequeable>
+<chequeable>La provincia de Buenos Aires tiene una inversión en educación por habitante que está entre las ocho más bajas del país</chequeable>
+<chequeable>3 de cada 4 jóvenes está desocupado o en negro</chequeable>
+<chequeable>llevar un contenedor desde el norte del país a Rosario cuesta lo mismo que enviarlo a Holanda</chequeable>
+<chequeable>San Luis no tiene empleados públicos en exceso; hoy son 17 mil</chequeable>
+<chequeable>En el gobierno de CFK, Kirchner y Duhalde aumentaron las villas miseria en un 55%</chequeable>
+<chequeable>La mayor inversión en la historia, en términos de metros construidos</chequeable>
+<chequeable>En Europa han caído 10 ó 12 gobiernos</chequeable>
+<chequeable>El 68% de las exportaciones son industriales</chequeable>
+<chequeable>La publicidad oficial es el 10% del total. Con lo cual su influencia es nula</chequeable>
+<chequeable>casi el 90% de la energía viene de los hidrocarburos</chequeable>
+<chequeable>La Ciudad subsidia el 50% del CEAMSE</chequeable>
+<chequeable>El salario no es una ganancia</chequeable>
+<chequeable>El 50% del superávit proviene de África</chequeable>
+<chequeable>Salta es la provincia que tiene menos presupuesto por habitante  … y no tenemos problemas ni necesidad de la ayuda de nadie</chequeable>
+<chequeable>Este año es el año que más ingresos les han llegado a las provincias por coparticipación</chequeable>
+<chequeable>Nuestra única conexión relevante con el mundo es el precio de la soja</chequeable>
+<chequeable>De aquellos 200 pesos a estos 2875 el aumento del salario mínimo, vital y móvil significa un 1338%</chequeable>
+<chequeable>El presupuesto que se destina a salud es el 20% del total</chequeable>
+<chequeable>El Gobierno generó la mitad de los empleos que dice haber creado</chequeable>
+<chequeable>Hemos permitido que todos los partidos políticos … tuvieran el mismo e igualitario acceso a la publicidad electoral</chequeable>
+<chequeable>Este proyecto político ha generado más de cinco millones y medio de puestos de trabajo</chequeable>
+<chequeable>La pauta oficial representa sólo el 5% del total en relación a la privada</chequeable>
+<chequeable>El Gobierno de la Ciudad ha triplicado el salario docente</chequeable>
+<chequeable>Hemos designado una inmensa cantidad de jueces, no puede atribuirse  al Ejecutivo solamente que todavía haya vacantes"</chequeable>
+<chequeable>En la Justicia es imposible acceder a la declaración jurada de nadie</chequeable>
+<chequeable>Somos en América Latina los que más científicos tenemos por cada 1.000 habitantes</chequeable>
+<chequeable>Cada día más personas recurren a nuestro sistema de salud. En especial de la Provincia</chequeable>
+<chequeable>La participación nacional de celulares pasó al 97%</chequeable>
+<chequeable>No hubo ninguna subejecución en mantenimiento e infraestructura pluvial</chequeable>
+<chequeable>Todas las provincias argentinas tienen reguladas las medidas cautelares contra el Estado</chequeable>
+<chequeable>La importación de energía no representa más del 8% de la demanda de nuestro país"</chequeable>
+<chequeable>La cantidad de trabajadores registrados es la más alta de los últimos 38 años</chequeable>
+<chequeable>Desde 2003, se perdió la soberanía o el autoabastecimiento energético</chequeable>
+<chequeable>Se ha avanzado muchísimo durante mi gestión</chequeable>
+<chequeable>Después de 50 años se está expandiendo la red cloacal en Almirante Brown</chequeable>
+<chequeable>Casi el 10% del presupuesto está destinado a seguridad, eso no lo gasta la Provincia de Buenos Aires</chequeable>
+<chequeable>Tomando todo el presupuesto en su conjunto, lo que va destinado a Inteligencia es apenas el 1,7%</chequeable>
+<chequeable>Con la mitad del presupuesto de lo que salió este Metrobus se podría haber acelerado la frecuencia de la Línea C</chequeable>
+<chequeable>Hemos destinado a seguridad el 10% del presupuesto  abocados a un sistema de seguridad integral</chequeable>
+<chequeable>Hemos batido récord de producción</chequeable>
+<chequeable>Cuando fui Presidente del Banco Central asumí con una inflación del 40%. La bajamos al 4% en un año</chequeable>
+<chequeable>La inversión en salud pública creció 10 veces en el Presupuesto</chequeable>
+<chequeable>Hemos logrado hacer 31 escuelas nuevas en la Ciudad de Buenos Aires</chequeable>
+<chequeable>El 95% del agua de Neuquén va a parar al mar. Solamente se va a usar el 1% del agua que se va al mar para estos desarrollos</chequeable>
+<chequeable>Somos el primer gobierno en entregar títulos de propiedad en villas y buscar incorporarlas en la Ciudad</chequeable>
+<chequeable>El voto electrónico es un sistema muy sencillo, que da certezas y garantías</chequeable>
+<chequeable>Los jueces son nombrados por el Consejo de la Magistratura</chequeable>
+<chequeable>Casi ocho de cada diez alumnos argentinos de 15 años de edad comprende lo que lee</chequeable>
+<chequeable>El gobierno nacional ha incorporado casi 10 mil megavatios en los últimos 10 años</chequeable>
+<chequeable>En 2013 el subte tuvo 252 millones de pasajeros, un 7% más que el año anterior</chequeable>
+<chequeable>"El gobierno nacional fijó prioridades, creó 5 millones de puestos de trabajo</chequeable>
+<chequeable>"En este teléfono no hay ningún llamado del gobernador José Manuel De la Sota"</chequeable>
+<chequeable>No hay ningún sector en el que todos sus insumos sean importados, salvo el tema de celulares y electrodomésticos</chequeable>
+<chequeable>Objetivamente en la Argentina no hay producción de drogas</chequeable>
+<chequeable>Con el nuevo Código la corrupción y sustracción de menores, el robo con armas y el tráfico de drogas son excarcelables</chequeable>
+<chequeable>Dará lo mismo violar una vez que diez veces</chequeable>
+<chequeable>La Argentina tiene las tarifas y precios de energía ampliamente más competitivos de la región</chequeable>
+<chequeable>Este anteproyecto reduce las penas notablemente. Por ejemplo, saca la prisión perpetua y la prisión máxima es de 30 años</chequeable>
+<chequeable>El crédito duplicó su participación en el PBI entre 2003 y 2013</chequeable>
+<chequeable>El 20% de los presos en cárceles argentinas son extranjeros</chequeable>
+<chequeable>La Argentina sólo tuvo autoabastecimiento energético en la década del '90 y un poco con los militares</chequeable>
+<chequeable>La proporción de la publicidad del Estado frente a la publicidad privada es ínfima</chequeable>
+<chequeable>El problema del acceso a la vivienda está directamente relacionado con la falta de un reordenamiento poblacional. El 33% de la población se concentra en el 1% del territorio</chequeable>
+<chequeable>Entre 2009 y 2013 la hemos reducido a la mitad</chequeable>
+<chequeable>En la Argentina hay más prófugos que presos</chequeable>
+<chequeable>Un productor de Salta paga más caro el flete de Salta a Rosario que de Rosario a Rotterdam</chequeable>
+<chequeable>El mercado de trabajo se ha mantenido estable. No ha habido más despidos que en el 2012 y 2013</chequeable>
+<chequeable>La actividad inmobiliaria ha repuntado, durante el mes de junio, en un casi 20 por ciento</chequeable>
+<chequeable>La posibilidad de intervenir en la fijación de precios, margen de utilidad, existe desde 1974, no es una novedad</chequeable>
+<chequeable>El salario mínimo se incrementó un 2.389% desde junio de 2003</chequeable>
+<chequeable>En sólo tres meses se cerraron 311.000 ‘cuentas sueldo’</chequeable>
+<chequeable>La diferencia más grande entre un presupuesto presentado y la realidad se da justamente en 2014</chequeable>
+<chequeable>Sin título docente, podrán ser nombrados maestros en algunas escuelas</chequeable>
+<chequeable>El crecimiento realizado por la Argentina entre 2004 y 2011 es el tercero a nivel global en calidad de crecimiento</chequeable>
+<chequeable>No hubo una pérdida de salario real</chequeable>
+<chequeable>Un egresado de una universidad pública cuesta más que en la privada más cara</chequeable>
+<chequeable>En Perú, en Bolivia y en Paraguay están mejor que en la Argentina</chequeable>
+<chequeable>La Argentina va reduciendo progresivamente la importación de energía</chequeable>
+<chequeable>Hoy el Poder Judicial tiene el mayor presupuesto desde el 10 de diciembre de 1983 a la fecha</chequeable>
+<chequeable>A un productor le sale más caro el flete de Salta a Rosario que de Rosario a Rotterdam</chequeable>
+<chequeable>Un informe privado refleja una baja del 90% en cortes de luz</chequeable>
+<chequeable>Los rendimientos de los plazos fijos y el Merval se ubicaron muy por encima del de la compra de dólares inclusive el ilegal</chequeable>
+<chequeable>Estamos cada día más cerca de cumplir los objetivos de la Ley de Basura Cero</chequeable>
+<chequeable>Los únicos coches 0km que tiene el Gobierno de la Ciudad son los adquiridos por Nación para la Línea A</chequeable>
+<chequeable>En la Argentina no se producen drogas</chequeable>
+<chequeable>Cada vez hay más trabajadores en negro en nuestro país</chequeable>
+<chequeable>No se hicieron nunca en la historia de la Ciudad inversiones en infraestructura escolar como en nuestra gestión</chequeable>
+<chequeable>La renta financiera el único que la gravó ha sido este Gobierno</chequeable>
+<chequeable>En el PRO hay una apertura total al matrimonio igualitario</chequeable>
+<chequeable>Con la inflación más alta el mínimo debería estar en $13 mil y hoy es de $15 mil</chequeable>
+<chequeable>Yo gané en Córdoba rebajando el 30% de los impuestos y los mantuve a lo largo de 17 años</chequeable>
+<chequeable>Fútbol para Todos, con más presupuesto que el Ministerio de Cultura</chequeable>
+<chequeable>Lo único que aumentó en materia de Educación es la cantidad de padres que pagamos del bolsillo la Educación"</chequeable>
+<chequeable>En todos lados del mundo se mezcla la campaña con la gestión de gobierno</chequeable>
+<chequeable>En 2003 había 2,2 millones de empleados   públicos. En 2014, hay 3,7</chequeable>
+<chequeable>La Argentina es el único país fronterizo de América, hay que remontarse a África para encontrar uno</chequeable>
+<chequeable>Cada 10 horas muere una persona por desnutrición en la Argentina</chequeable>
+<chequeable>En la Argentina hay más personas con pedido de captura que detenidos</chequeable>
+<chequeable>Los subsidios son una inversión y no un gasto</chequeable>
+<chequeable>Caputo S.A. no licitó una sola obra en mi gestión</chequeable>
+<chequeable>Si tomamos sólo los empleos privados registrados, en el último año crecieron en 180 mil</chequeable>
+<chequeable>Nosotros llevamos el consumo per cápita a un promedio de 55 kilos por habitante de carne vacuna</chequeable>
+<chequeable>Se encuentran por US$ 50 mil departamentos en la mayoría de las ciudades y en zona sur en Capital</chequeable>
+<chequeable>Se pagó al Club de París, sin negociar, intereses y punitorios. Y seguimos con la peor calificación</chequeable>
+<chequeable>Tuvimos un último trimestre muy negativo, con un déficit fiscal en torno a los siete puntos del PBI</chequeable>
+<chequeable>Hay una tendencia a la baja de la inflación</chequeable>
+<chequeable>El porcentaje de empleados que perdió su trabajo en el primer trimestre es el más bajo de los últimos siete años</chequeable>
+<chequeable>En los últimos doce meses el salario docente universitario creció el 51,86%</chequeable>
+<chequeable>Se incrementó la inversión cultural como nunca en la Ciudad, que triplica los estándares de la Unesco</chequeable>
+<chequeable>Los trabajadores en el Programa de Recuperación Productiva eran 67.200 en 2015, y ahora son 9.087</chequeable>
+<chequeable>Es el blanqueo con los impuestos más altos de la historia argentina</chequeable>
+<chequeable>Desde que la Ciudad se hizo cargo del subte, disminuyó notablemente la cantidad de pasajeros</chequeable>
+<chequeable>El proyecto de Cambiemos establece una quita de entre el 30% y el 60% para los jubilados que tienen juicio</chequeable>
+<chequeable>Recaudaríamos más si gravamos la renta financiera Solo en el primer trimestre los bancos ganaron más de US$ 400 millones</chequeable>
+<chequeable>Más del 83% pagó las tarifas de gas demostrando que entendía la necesidad del compromiso</chequeable>
+<chequeable>La inversión privada a tan solo tres meses de salir del default suma en anuncios más de US$ 35 mil millones</chequeable>
+<chequeable>Hay un aumento en el presupuesto educativo, sanción contra sanción, del 50%</chequeable>
+<chequeable>La auditoría que hizo Vialidad Nacional dice que en relación a Báez no encontraron sobreprecios en la obra pública</chequeable>
+<chequeable>Todos los afiliados del PAMI tienen la mejor cobertura de medicamentos de América</chequeable>
+<chequeable>En el Conicet fijamos un tope de 14 mil investigadores, más alto que los consejos de investigación de Francia o España</chequeable>
+<chequeable>Desde que se aprobó la ley de movilidad previsional en 2009, a los jubilados nunca les fue tan mal como en 2016</chequeable>
+<chequeable>Las importaciones en 2016 cayeron 7% respecto del 2015</chequeable>
+<chequeable>El Ministerio de Salud dejó sin usar el 41% de los recursos que le fueron asignados</chequeable>
+<chequeable>El salario docente está $4.000 por debajo de la línea de pobreza para el maestro de grado</chequeable>
+<chequeable>A Jujuy le dieron muchísimo más dinero que a Santa Cruz</chequeable>
+<chequeable>Tras diez años de gobierno PRO sube amoralmente la mortalidad infantil por causas evitables en CABA</chequeable>
+<chequeable>YPF este año ha tenido el primer resultado negativo en los últimos 20 años</chequeable>
+<chequeable>El número de beneficiarios alcanzados no llega a un tercio de lo que se anunció</chequeable>
+<chequeable>Desde que gobierna Macri sus políticas fundieron a más de tres mil PyMEs</chequeable>
+<chequeable>El empleo en la construcción aumentó 11,6%. La mayor suba en seis años</chequeable>
+<chequeable>Al momento de la designación de Milani, no había ninguna denuncia III</chequeable>
+<chequeable>El gobierno de Vidal aumentó 71% el presupuesto en propaganda</chequeable>
+<chequeable>En 2016 la inversión extranjera directa fue menos de la mitad de la que tuvimos en 2015</chequeable>
+<chequeable>En la Provincia de Buenos Aires bajó la participación de los menores en el delito</chequeable>
+<chequeable>Hay más de tres mil sindicatos y sólo 600 firman paritarias anualmente</chequeable>
+<chequeable>El beneficio de la duda siempre lo debe tener la fuerza de seguridad</chequeable>
+<chequeable>Desde que asumió Macri se registran entre cuatro y cinco operativos represivos por mes</chequeable>
+<chequeable>Yo estuve</chequeable>
+<chequeable>En los países serios no se permite la siembra de soja transgénica</chequeable>
+<chequeable>tenemos la brecha de desigualdad más pequeña desde 1974</chequeable>
+<chequeable>la Policía Metropolitana se creó específicamente para custodiar</chequeable>
+<chequeable>Macri sólo ejecutó el 22% del presupuesto para viviendas, el 16% de hospitales y el 60% de educación</chequeable>
+<chequeable>El 80% de los trabajadores no está sindicalizado</chequeable>
+<chequeable>Mejora la distribución del ingreso otro escalón</chequeable>
+<chequeable>en esta elección batimos el récord de concurrencia electoral</chequeable>
+<chequeable>En Tucumán, prácticamente, no hay desnutrición</chequeable>
+<chequeable>De cada 1000 causas que se abren por drogas sólo el 3% es por comercio, el resto es a consumidores</chequeable>
+<chequeable>Hoy hay más de tres millones de viviendas que necesita el país</chequeable>
+<chequeable>En 2003 la Argentina destinaba el 5% de su PBI a la deuda y sólo el 2% a la educación. Hoy destina el 2% del PBI a la deuda y 6,47% a la educación</chequeable>
+<chequeable>Una Argentina que ha generado el crecimiento del producto bruto más importante de sus 200 años de historia</chequeable>
+<chequeable>De cada 10 heladeras que se venden, 8 se fabrican en el país … en el 2003 sólo 3 de cada 10 lo eran</chequeable>
+<chequeable>La Argentina es uno de los países líderes del mundo</chequeable>
+<chequeable>la Argentina se ubica "en el segundo o en el tercer lugar entre los países de  América Latina por sus prácticas corruptas"</chequeable>
+<chequeable>Con esas políticas se destruyó el stock ganadero en la Argentina</chequeable>
+<chequeable>La Argentina tiene una presión impositiva similar a la de los países nórdicos</chequeable>
+<chequeable>la Argentina tuvo el crecimiento más importante de su historia</chequeable>
+<chequeable>Hoy la industria argentina es la base del empleo</chequeable>
+<chequeable>La Argentina es el cuarto exportador mundial de contenidos audiovisuales</chequeable>
+<chequeable>En el 2001 teníamos 8 millones de desocupados y 185 mil fábricas cerradas</chequeable>
+<chequeable>Estamos ordeñando la misma cantidad de leche que en 1999</chequeable>
+<chequeable>En toda la historia de la Argentina se habían construido, hasta el 2003, 8.000 km de líneas de alta tensión y desde el 2003 a la fecha hemos construido 5.500 km</chequeable>
+<chequeable>La Ciudad es el único distrito que este año enterró menos basura en la CEAMSE</chequeable>
+<chequeable>En el 2011 el 90% de las personas que necesitaban de un medicamento especial … lo recibieron a través de este plan</chequeable>
+<chequeable>Seis o siete hipermercados concentran el 85% de las ventas del país</chequeable>
+<chequeable>Santa Fe hace años que no recibe una vivienda del Plan Federal</chequeable>
+<chequeable>Estamos ordeñando la misma cantidad de leche que en 1999</chequeable>
+<chequeable>Del año 2003 al 2012  … más que se duplicó el PBI industrial. Creció un 105%</chequeable>
+<chequeable>Incluimos en el sistema previsional a más de 2 millones de trabajadores</chequeable>
+<chequeable>Los ingresos por los gastos de turistas extranjeros han caído dramáticamente</chequeable>
+<chequeable>Tigre tiene el 60% del territorio continental transformado en barrios cerrados</chequeable>
+<chequeable>Las rutas provinciales son las mismas que hace 50 o más años</chequeable>
+<chequeable>"No hay empresa estatal de petróleo que no esté asociada con capitales extranjeros para la explotación de hidrocarburos"</chequeable>
+<chequeable>En la Ciudad, si se excluyen los homicidios en las villas, habría 3,5 muertos cada cien mil habitantes,  el mismo indicador que en Europa</chequeable>
+<chequeable>La Ley de Glaciares no se ejecuta</chequeable>
+<chequeable>Todas las cifras de la educación argentina hoy son mejores de las que estaban</chequeable>
+<chequeable>Por primera vez en 30 años se anotan más chicos en la escuela pública -primaria y jardín- que en la privada</chequeable>
+<chequeable>El 85% de los detenidos no terminó los estudios primarios</chequeable>
+<chequeable>Hay una caída del 80% del robo automotor en cinco años en Tigre</chequeable>
+<chequeable>Logramos la incorporación de 2,5 millones de personas a una jubilación</chequeable>
+<chequeable>Desde 2010, el Instituto de la Vivienda no ha construido ni una sola vivienda</chequeable>
+<chequeable>En estos 10 años el país ha tenido el mayor crecimiento de los últimos 200 años</chequeable>
+<chequeable>Estamos ordeñando la misma cantidad de leche que en 1999</chequeable>
+<chequeable>Con esta reforma, en el accidente de Once el Estado no sería responsable</chequeable>
+<chequeable>Prácticamente se duplicó la inversión de YPF desde que el Estado tiene el control</chequeable>
+<chequeable>En concursos públicos abiertos y permanentes, y en el plan técnico, a lo largo de estos 4 años no se hizo absolutamente nada</chequeable>
+<chequeable>Menos del 5% de las leyes que se aprueban por año son vetadas</chequeable>
+<chequeable>La precariedad laboral abarca a 8,5 millones de trabajadores en la Argentina</chequeable>
+<chequeable>Un trabajador argentino trabaja mucho más que uno europeo en cantidad de horas, y tiene menos feriados</chequeable>
+<chequeable>El 90% de los caminos sigue siendo de tierra y sin mantenimiento</chequeable>
+<chequeable>El radicalismo está gobernando la mitad de las capitales de provincia</chequeable>
+<chequeable>Aerolíneas tiene todos los balances al día, están en la página web, auditados y completos</chequeable>
+<chequeable>En la Argentina, el promedio de procesados es del 65% y solamente 35% de condenados</chequeable>
+<chequeable>Desde que asumió como diputado, Massa faltó al 60% de las sesiones</chequeable>
+<chequeable>Uruguay es el país más seguro de América Latina</chequeable>
+<chequeable>En la Argentina, 33% de la población se toma vacaciones, menos que en Uruguay, Francia o EE.UU.</chequeable>
+<chequeable>"Buenos Aires paga $280 mil por cuadra en recolección de residuos, el doble que la mayoría de las ciudades argentinas"</chequeable>
+<chequeable>Bajamos un 80% el delito automotor en Tigre</chequeable>
+<chequeable>Hemos comprado más de 300 coches nuevos</chequeable>
+<chequeable>Un hogar argentino consume cuatro veces más energía que Brasil, tres veces más que Chile y Uruguay</chequeable>
+<chequeable>Logramos reducir en más de un 50% la disposición final de residuos</chequeable>
+<chequeable>La Nación ha privilegiado la inversión en rutas de otras provincias pero nada en Santa Fe</chequeable>
+<chequeable>El conurbano tiene intendentes que gobiernan sus distritos hace 15 años en promedio</chequeable>
+<chequeable>"Muy pocos países del mundo tienen este tipo de impuestos"</chequeable>
+<chequeable>Las mujeres ocupamos casi 40% de los puestos de conducción</chequeable>
+<chequeable>Fui yo el que hizo un revalúo inmobiliario rural después de 50 años</chequeable>
+<chequeable>En el ‘83 las provincias tenían el 49% de los recursos nacionales, hoy el 26%</chequeable>
+<chequeable>De cada 10 créditos hipotecarios que se dan en la Argentina, 9 los da el Estado</chequeable>
+<chequeable>De los vagones que compramos un 75% son nuevos, un 25% son usados</chequeable>
+<chequeable>El Hipódromo de Palermo es el casino más grande del mundo en maquinitas</chequeable>
+<chequeable>Van cuatro años que no hay paros docentes y justo aparece un paro dos días antes de la elección</chequeable>
+<chequeable>"Nuestro calendario escolar es el más corto del mundo"</chequeable>
+<chequeable>"El déficit de Aerolíneas ocupa cinco veces más que todo el presupuesto del Ministerio de Industria"</chequeable>
+<chequeable>Hicimos una primera industrialización, ya no exportamos porotos de soja, exportamos aceite</chequeable>
+<chequeable>Este es el gobierno que más ha devaluado en el mundo</chequeable>
+<chequeable>Tenemos una deuda del 40% del PBI. Es de las más bajas del mundo</chequeable>
+<chequeable>De los cuatro puntos del PBI de subsidios, dos puntos van a gente que no lo necesita</chequeable>
+<chequeable>Todos los países de Latinoamérica tienen este tipo de leyes</chequeable>
+<chequeable>El Estado argentino es uno de los estados más chicos</chequeable>
+<chequeable>Le vendemos US$ 4.000 millones en total a los Estados Unidos. Esa cifra está estancada desde hace 15 años</chequeable>
+<chequeable>"En Europa ya lo han prohibido a Uber"</chequeable>
+<chequeable>Son 6 millones de beneficiarios de la tarifa social en el Área Metropolitana</chequeable>
+<chequeable>"En la Matanza el 50% de la población no tenía agua potable. Nosotros le dimos al 95%"</chequeable>
+<chequeable>Dejamos un país con sindicatos que siempre pudieron arreglar las paritarias muy por encima de la inflación</chequeable>
+<chequeable>Cuando yo era chico, entre el 10% más rico y el 10% más pobre había siete veces; hoy hay más de 25 veces</chequeable>
+<chequeable>"Veníamos con paritarias hasta el 2015 en donde, si alguna vez quedamos abajo de la inflación, eran dos o tres puntos"</chequeable>
+<chequeable>Generamos que los trabajadores pudieran discutir todos los años salarios por encima de la inflación</chequeable>
+<chequeable>La población con empleo apenas supera el 40%, y en la mayoría de los países de la región está arriba del 50%</chequeable>
+<chequeable>Un jubilado que gana menos de $6.000 perdió contra la inflación un 15% de poder de compra en el último año</chequeable>
+<chequeable>Durante el 2015 no hicieron ni una sola licitación</chequeable>
+<chequeable>Duplicaron prácticamente la deuda externa con privados en muy poco tiempo</chequeable>
+<chequeable>Macri ganó las elecciones y viene cumpliendo con todo lo que prometió en campaña</chequeable>
+<chequeable>Nada más que por el anuncio, ya bajaron el 36% las computadoras</chequeable>
+<chequeable>Aerolíneas Argentinas nos costaba como $40 millones por día y ahora nos cuesta 11</chequeable>
+<chequeable>Los docentes de CTERA le habrán hecho a Mauricio Macri en 15 meses más huelgas que al kirchnerismo en 12 años</chequeable>
+<chequeable>El 90% de lo que le vendemos a China es porotos de soja, mientras que el 90% de lo que le compramos es mano de obra</chequeable>
+<chequeable>El 56% de las mujeres de la Ciudad están precarizadas</chequeable>
+<chequeable>Cada tres minutos una familia recibe un crédito hipotecario a 30 años del Banco Nación</chequeable>
+<chequeable>Hay 400 policías presos desde que María Eugenia Vidal es gobernadora</chequeable>
+<chequeable>El poder de compra de la clase trabajadora perdió en los últimos 20 meses entre 7 y 11 puntos</chequeable>
+<chequeable>En los 12 últimos meses la inflación fue la más baja de los últimos siete años</chequeable>
+<chequeable>Al obrero le queda sólo 44% de lo que le cuesta a la empresa</chequeable>
+<chequeable>el 40% de los pagos de la ANSES no llega al bolsillo de los jubilados</chequeable>
+<chequeable>En dos años y medio se invirtió en escuelas un 50% más que la gestión anterior</chequeable>
+<chequeable>Estamos igual que en 2001 en distribución de ingresos</chequeable>
+<chequeable>El acto de River convocará a más gente que las internas de la CTA</chequeable>
+<chequeable>El 70% de la población apoya la participación en ganancias</chequeable>
+<chequeable>Estamos con una moneda más sobrevaluada que en la época del uno a uno</chequeable>
+<chequeable>durante el paro del campo hubo varias víctimas fatales</chequeable>
+<chequeable>la prórroga del mandato, es un trámite administrativo</chequeable>
+<chequeable>Hay que trabajar medio año para el Estado</chequeable>
+<chequeable>Todos los días llegan entre 100 y 200 inmigrantes a la ciudad, que no sabemos quiénes son</chequeable>
+<chequeable>la violencia que sufrió la prensa en Villa Soldati es inédita</chequeable>
+<chequeable>Durante mi gobierno no hubo ni siquiera un herido por fuerzas nacionales</chequeable>
+<chequeable>Sólo a Argentina se están marchando cada mes 1200 jóvenes a trabajar</chequeable>
+<chequeable>en el mundo globalizado no se grava la renta financiera</chequeable>
+<chequeable>En octubre de 2004 se produjo el último secuestro extorsivo en la provincia</chequeable>
+<chequeable>Las principales importaciones fueron de combustibles</chequeable>
+<chequeable>Argentina tiene el nivel de trabajo registrado más alto de la historia</chequeable>
+<chequeable>aún existen dictadores como Correa, Morales, Ortega y Chávez</chequeable>
+<chequeable>Buenos Aires es la ciudad más desigual del país</chequeable>
+<chequeable>cuando Kirchner asumió parecía difícil que se iba a terminar con el 25% de desocupación</chequeable>
+<chequeable>Somos el Gobierno que más viviendas construyó en la historia de la Argentina</chequeable>
+<chequeable>Sólo la dictadura usó el canal del Estado para hacer publicidad oficial</chequeable>
+<chequeable>Las únicas viviendas que construyó la Nación en la Ciudad fueron 800 que se están terminando</chequeable>
+<chequeable>Nunca tuvimos una economía con el grado de participación a nivel internacional, como el que hoy tiene Argentina</chequeable>
+<chequeable>En 1999, la deuda que recibí equivalía a tres presupuestos. Cuando me fui, equivalía a 11 meses</chequeable>
+<chequeable>Seguimos manteniendo el mismo stock ganadero</chequeable>
+<chequeable>La tasa de desempleo de los jóvenes se ha mantenido estable durante los últimos años</chequeable>
+<chequeable>Seguimos manteniendo el mismo stock ganadero</chequeable>
+<chequeable>Formosa es la provincia que más invierte por alumno en el país</chequeable>
+<chequeable>La pobreza retrocedió a los niveles de 1980"</chequeable>
+<chequeable>Después de China, la Argentina es el país  que más ha hecho crecer su economía</chequeable>
+<chequeable>hubo un incremento en la matrícula secundaria del 20%</chequeable>
+<chequeable>el impuesto a las ganancias es el más injusto que tenemos"</chequeable>
+<chequeable>Hicimos una inversión récord en infraestructura escolar</chequeable>
+<chequeable>Argentina de prestador de servicios, pasó a ser productor de bienes</chequeable>
+<chequeable>un chequeo a sus anuncios y logros en su discurso</chequeable>
+<chequeable>Nuestro país está a la vanguardia en la lucha contra este crimen aberrante la trata</chequeable>
+<chequeable>Bajo impacto de la AUH en la escuela</chequeable>
+<chequeable>La Argentina se convirtió en un país triguero sobre la base del cierre a la importación de trigo</chequeable>
+<chequeable>En la ciudad de Buenos Aires y en toda la campaña, según el censo de 1778, la mitad de la población eran negros</chequeable>
+<chequeable>El gasto de la basura en el total del presupuesto alcanzó el piso histórico</chequeable>
+<chequeable>Somos el país que más celulares por habitante tiene de toda América</chequeable>
+<chequeable>Hoy hay pleno empleo</chequeable>
+<chequeable>No debe haber nadie, ni el Gobierno nacional ni Macri, que haya invertido en publicidad lo que ha invertido Scioli</chequeable>
+<chequeable>Entre 2003 y 2011 creamos 300 mil empleos</chequeable>
+<chequeable>Entre 2008 y 2011 Buenos Aires mermó su recaudación en 13.500 millones</chequeable>
+<chequeable>A las jurisdicciones sólo llega por coparticipación entre el 25 y el 28 por ciento</chequeable>
+<chequeable>No hay un gobierno que haya avanzado como nosotros en el cumplimiento de la ley de Basura Cero</chequeable>
+<chequeable>La actividad automotriz está prácticamente igual que el año pasado</chequeable>
+<chequeable>No se ha creado empleo en los últimos 3 años, excepto en el sector público</chequeable>
+<chequeable>Hace 5 años empezaron los paros en los subtes</chequeable>
+<chequeable>"La Nación debe coparticipar como mínimo según ley el 34% de lo que recauda pero sólo le manda el 24% a las provincias"</chequeable>
+<chequeable>El tipo de cambio no está retrasado</chequeable>
+<chequeable>Nadie habla del voto de los extranjeros  que son millones</chequeable>
+<chequeable>La Ciudad cumplió con el fallo de la Corte Suprema y reglamentó el aborto no punible mediante un protocolo</chequeable>
+<chequeable>En los Estados Unidos para medir la inflación no los toman a los alimentos y a la energía</chequeable>
+<chequeable>La inversión cayó al mismo ritmo que en el 2001</chequeable>
+<chequeable>Los jueces nunca se condenan a sí mismos</chequeable>
+<chequeable>Todas las líneas aéreas del mundo, absolutamente todas, son deficitarias</chequeable>
+<chequeable>Los mayores exportadores de granos de los últimos tiempos fueron AFA y ACA</chequeable>
+<chequeable>Crecimos a tasas elevadísimas pero los niveles de pobreza son los mismos que teníamos hace diez años</chequeable>
+<chequeable>Creamos, de cero, una fuerza modelo, formada por casi 800 mil hombres</chequeable>
+<chequeable>En nueve años de gobierno creamos 380 mil empleos en la Provincia</chequeable>
+<chequeable>Nuestro presupuesto educativo registra el mayor crecimiento en el contexto nacional</chequeable>
+<chequeable>Junín tiene índices de criminalidad comparables a los de Rosario</chequeable>
+<chequeable>Se ha hecho una gran cantidad de obras en La Plata</chequeable>
+<chequeable>Para los invisibles y los pobres no hay ni cautelares, ni inconstitucionalidades, ni nada</chequeable>
+<chequeable>"Nos llevó un año conseguir todas las aprobaciones para llevar a cabo este edificio"</chequeable>
+<chequeable>En la Plata todos los días hay una, dos o tres personas muertas por la inseguridad</chequeable>
+<chequeable>De 79 mil empleos mineros en 2003, pasamos a casi medio millón en la actualidad</chequeable>
+<chequeable>En la industria generamos más de un millón de puestos de trabajo</chequeable>
+<chequeable>Estos son los años en que menos se ha distribuido la riqueza</chequeable>
+<chequeable>La pauta que maneja el Estado nacional no representa ni el 3% del total</chequeable>
+<chequeable>"Fue la actual Presidenta la que promovió la derogación del delito de calumnias e injurias"</chequeable>
+<chequeable>En un país normal los trabajadores no pagan impuesto a las ganancias</chequeable>
+<chequeable>No nos hemos desendeudado, estamos más endeudados que antes</chequeable>
+<chequeable>Quisieron montar  que había una suerte de espionaje de la Gendarmería, Proyecto X, inexistente</chequeable>
+<chequeable>Cuando yo asumí, teníamos el 20% de cobertura de agua potable y ahora tenemos el 95%</chequeable>
+<chequeable>Sacaron a Seychelles de la lista de paraísos fiscales. … Era un paraíso fiscal, después dejó de serlo</chequeable>
+<chequeable>Tenemos un país donde se permite  realizar tareas de cabotaje a empresas  extranjeras, cosa que no es recíproca</chequeable>
+<chequeable>Si uno mira todos los años previos el presupuesto se ha venido cumpliendo, punto más, punto menos</chequeable>
+<chequeable>En cloacas estamos cerca del 70% y en agua potable cerca del 100%</chequeable>
+<chequeable>Tenemos la mortalidad infantil y materna más baja del país</chequeable>
+<chequeable>Según datos del FMI la Argentina, después de China y la India, es el país que más va a crecer en 2013</chequeable>
+<chequeable>Logramos en seis años que el 3% de inversión en Infraestructura pasara a ser el 23%</chequeable>
+<chequeable>Nada de eso la asignación discrecional de la pauta oficial sucede en la Argentina</chequeable>
+<chequeable>Tres de cada diez productos se venden en los supermercados</chequeable>
+<chequeable>Hay más de cien mil puestos de trabajo, directos e indirectos, frutos de la aplicación de ley</chequeable>
+<chequeable>La decisión está en el marco de la que hemos tomado cada vez que hemos impulsado un ascenso</chequeable>
+<chequeable>Reutemann se saca fotos con Massa pero vota con el oficialismo</chequeable>
+<chequeable>"En este gobierno se duplicó la pobreza y la falta de trabajo"</chequeable>
+<chequeable>El mecanismo tendrá un sesgo hacia los que menos tienen</chequeable>
+<chequeable>Los legisladores porteños son los que menos cobran en todo el país</chequeable>
+<chequeable>La Justicia debería también obligar a los medios a divulgar los actos de gobierno, como cuando se inaugura una vivienda</chequeable>
+<chequeable>El mínimo de los jubilados no se incrementa como el salario mínimo</chequeable>
+<chequeable>El Estado gasta en Fútbol Para Todos la mitad de lo que gasta en la Asignación Universal por Hijo</chequeable>
+<chequeable>La Argentina es el país que más se ha desendeudado del mundo</chequeable>
+<chequeable>Hay más accidentes de autos causados por gente que está usando el celular, mandando mensajitos de texto o hablando, que por gente alcoholizada</chequeable>
+<chequeable>Desde hace 50 o 60 años que no había nuevas formaciones en la República Argentina</chequeable>
+<chequeable>El 40% de la población argentina no tiene agua, y el 60% no tiene cloacas</chequeable>
+<chequeable>Desde que se fue el Servicio Militar, la inseguridad empeoró</chequeable>
+<chequeable>Boudou todavía no ha sido imputado de nada</chequeable>
+<chequeable>"Las autoridades que tienen que velar por las garantías constitucionales de los argentinos, mandan a Brasil listados de gente  te están prejuzgando</chequeable>
+<chequeable>El programa 'Terminá la Secundaria' es para todo el país  es totalmente válido.  Está todo perfectamente establecido</chequeable>
+<chequeable>La cifra de 15 mil millones de deuda con los holdouts no tiene sustento</chequeable>
+<chequeable>Desde que Kirchner asumió se ha aumentado un 2.054% el haber de los jubilados</chequeable>
+<chequeable>Nosotros tenemos superávit hace muchos años, por eso invertimos lo que invertimos</chequeable>
+<chequeable>100.000 nuevos puestos de trabajo en la industria audiovisual</chequeable>
+<chequeable>La Argentina prácticamente ha erradicado los niveles de indigencia</chequeable>
+<chequeable>En las primarias de la Provincia no habrá más aplazos</chequeable>
+<chequeable>La Ciudad, en seis años, ha logrado pasar del 50% de chicos en escuelas públicas al 60%</chequeable>
+<chequeable>El uso de facturas apócrifas o facturas falsas nace del sector privado y termina en el sector privado</chequeable>
+<chequeable>El kirchnerismo no fue capaz de derogar ninguna ley del menemismo</chequeable>
+<chequeable>Copiaron la ley de telecomunicaciones venezolana para influir sobre los contenidos</chequeable>
+<chequeable>Entre 2002 y 2012, entre homicidios, tránsito y suicidios, Brasil perdió más de dos millones de habitantes</chequeable>
+<chequeable>Pese a su credo estatista, el kirchnerismo invirtió la mitad que en los 90 en infraestructura</chequeable>
+<chequeable>según Scioli ya se alcanzó</chequeable>
+<chequeable>Washington D.C. tiene más tasa de mortalidad infantil que la Argentina</chequeable>
+<chequeable>Los datos personales se pueden hacer conocer  cuando medien razones fundadas de preocupación pública</chequeable>
+<chequeable>Las funciones de la Comisión están claras y su trabajo también</chequeable>
+<chequeable>En la Secretaría de Inteligencia no todos los fondos son reservados</chequeable>
+<chequeable>Neuquén tenía el índice de mortalidad infantil más alto de la República, hoy es el más bajo</chequeable>
+<chequeable>El juego no lo maneja la Ciudad, nosotros no somos parte del acuerdo firmado por Ibarra</chequeable>
+<chequeable>La sentencia por la causa del atentado a la Embajada de Israel es cosa juzgada</chequeable>
+<chequeable>Casación estableció que cualquier delito ligado a la investigación del atentado contra la AMIA es crimen de lesa humanidad</chequeable>
+<chequeable>Vetamos muchas menos leyes que el Gobierno nacional</chequeable>
+<chequeable>He detenido y enviado a la cárcel a más de 10 mil narcotraficantes</chequeable>
+<chequeable>Si hubiera problema con las divisas, la industria de la Provincia estaría parada</chequeable>
+<chequeable>Salta viene creciendo fácil un punto y medio por arriba de la media nacional en los últimos diez años</chequeable>
+<chequeable>La AUH, Aerolíneas e YPF, cada vez que votamos una de estas leyes en el Congreso lo hicimos en absoluta soledad</chequeable>
+<chequeable>En Argentina la corrupción no está tipificada en el Código Penal"</chequeable>
+<chequeable>El 98% de la población de La Matanza está conectada a la red de agua potable</chequeable>
+<chequeable>En Publicidad nosotros gastamos 0,87% del presupuesto, lo mismo que al comienzo del gobierno</chequeable>
+<chequeable>Del crédito hipotecario hoy el 90% lo explica el Pro.Cre.Ar</chequeable>
+<chequeable>Duplicamos el PBI en diez años</chequeable>
+<chequeable>El 70% de los niños en la Argentina son pobres</chequeable>
+<chequeable>La mayoría de los países de Europa son más desiguales que la Argentina</chequeable>
+<chequeable>Aumentó 100% la planta de empleados públicos en Córdoba</chequeable>
+<chequeable>Creció el consumo de marihuana al doble, el de cocaína y el de drogas sintéticas el 350%</chequeable>
+<chequeable>La Ciudad tiene la misma cantidad de empleados públicos que cuando llegamos</chequeable>
+<chequeable>Hoy un trabajador promedio necesita 341 sueldos para comprarse un departamento. En 2003, era la mitad</chequeable>
+<chequeable>Formosa tiene la mejor distribución de la riqueza</chequeable>
+<chequeable>En la Provincia, las muertes por robo aumentaron un 90% y, en la Ciudad, un 70%</chequeable>
+<chequeable>No hubo una sola contratación directa</chequeable>
+<chequeable>Desde 2007 no se crea empleo privado en la Argentina</chequeable>
+<chequeable>En la Ciudad, en algunos lugares piden DNI para ver si te atienden o no a un chiquito enfermo</chequeable>
+<chequeable>Terminaremos la gestión con más de 80 hospitales</chequeable>
+<chequeable>Nueve mil argentinos pierden la vida por año en las rutas</chequeable>
+<chequeable>La Ciudad tiene la misma dotación de empleados que cuando Macri asumió en 2007</chequeable>
+<chequeable>La Argentina no tiene medios concentrados</chequeable>
+<chequeable>En ocho años se fueron 20 mil personas y se incorporaron otras 20 mil</chequeable>
+<chequeable>La CABA tendrá $9.727 millones de libre disponibilidad</chequeable>
+<chequeable>Salta está entre las provincias que más presupuesto destina a Educación, pero de las que menos invierte por alumno</chequeable>
+<chequeable>El proyecto de ampliación de la Corte provincial lo votó todo el bloque del Frente para la Victoria</chequeable>
+<chequeable>La inflación acumulada enero-octubre estaba en el orden del 10%</chequeable>
+<chequeable>las medidas anunciadas representan una mejora en el poder adquisitivo de los más vulnerables, que supera cualquier aumento de precios</chequeable>
+<chequeable>En 2002 hubo leyes que prohibían despidos y eso no trajo más trabajo, destruyó trabajo</chequeable>
+<chequeable>Soy la única persona que estuvo presa por el delito de evasión fiscal</chequeable>
+<chequeable>Ni siquiera está imputado, lo pidió el fiscal, no está confirmado</chequeable>
+<chequeable>El gasto social creció un 43,5%, eso significa que la inversión hacia los que menos tienen es lo que más creció en el presupuesto</chequeable>
+<chequeable>Hoy consumimos más que el doble de energía de lo que consume un hermano de Uruguay o de Chile</chequeable>
+<chequeable>Hubo un aumento muy fuerte en la inversión social que creció casi el 44% en los primeros cinco meses del año</chequeable>
+<chequeable>El rubro importaciones creció un 61% comparativamente con el año anterior</chequeable>
+<chequeable>No fuimos anti-estadounidenses Durante los ‘90 la balanza comercial era deficitaria para los EE.UU. Durante nuestro gobierno fue superavitaria</chequeable>
+<chequeable>Gils Carbó le encontró la razón a los aumentos que había dado Cristina Kirchner</chequeable>
+<chequeable>Tenemos la peor caída de la industria desde el 2002, previo al kirchnerismo</chequeable>
+<chequeable>Cuando uno ve sector por sector, en ningún caso la importación es más del 2 o 3% del total del mercado</chequeable>
+<chequeable>No podemos decir que cayó el salario real</chequeable>
+<chequeable>Macri endeudó a la Argentina más que la dictadura cívico-militar en siete años</chequeable>
+<chequeable>Aumentamos 120% el gasto en medicamentos e insumos</chequeable>
+<chequeable>13 o 14 veces analizaron las declaraciones juradas de la familia Kirchner y siempre fue sobreseída</chequeable>
+<chequeable>Hoy paga lo mismo de impuesto a las Ganancias quien gana $5 millones por año que el que gana 250 mil</chequeable>
+<chequeable>La ley de movilidad jubilatoria por primera vez en siete u ocho años ha quedado por debajo de la inflación</chequeable>
+<chequeable>Se bajaron las retenciones y sin embargo cayó 8% el empleo del sector minero</chequeable>
+<chequeable>Hay una penetración de Internet de banda ancha del 2%, cuando el promedio de la región es el 20%</chequeable>
+<chequeable>Cristina Kirchner anunció en 2012 la compra de 26 aviones para incendios, pero no llegó ninguno</chequeable>
+<chequeable>Se están comprando más dólares que en las peores épocas del kirchnerismo</chequeable>
+<chequeable>El Lago Escondido tiene mejor acceso que el que tenía antes de que Joe Lewis compre esa propiedad</chequeable>
+<chequeable>Milani en el Ejército tenía más recursos para Inteligencia que los que tenía el área de Inteligencia del Estado</chequeable>
+<chequeable>Tigre tenía 0% de presupuesto en seguridad municipal y pasó a tener 14,5% del presupuesto</chequeable>
+<chequeable>La mínima de un jubilado son $9 mil y pico</chequeable>
+<chequeable>Somos el único país que en diez años no mejoró en una sola materia en las pruebas PISA</chequeable>
+<chequeable>La Ciudad, cuando gobernó Macri, fue el único lugar de la Argentina donde la matrícula pública empezó a crecer</chequeable>
+<chequeable>Este primer trimestre del 2017 estamos batiendo el récord de la historia de la obra pública en la Argentina</chequeable>
+<chequeable>La cantidad de empleados públicos en el Gobierno nacional cayó fuertemente, en más de 10 mil personas</chequeable>
+<chequeable>El 50% de la población en la provincia de Santa Cruz no tiene agua corriente</chequeable>
+<chequeable>El precio del pan subió de $25 a $50 en un año</chequeable>
+<chequeable>La Argentina ya es uno de los países con mayor índice de pobreza de América Latina</chequeable>
+<chequeable>Después de 10 años de paritarias estábamos en un salario mínimo docente que estaba por debajo del mínimo, vital y móvil</chequeable>
+<chequeable>Nosotros dejamos 2,4 millones de argentinos en la pobreza</chequeable>
+<chequeable>Desde que Macri asumió la industria acumula la caída más extensa desde 2001</chequeable>
+<chequeable>Hoy un trabajador tiene en promedio horario en la Argentina 11 horas de trabajo</chequeable>
+<chequeable>Hoy las mineras por el impuesto a las Ganancias pagan siete veces más que lo que dejaban por retenciones</chequeable>
+<chequeable>Siete de cada diez familias no tenían cloacas en la Provincia de Buenos Aires</chequeable>
+<chequeable>Estamos ante el déficit comercial más grande desde 1910</chequeable>
+<chequeable>No había desaparecidos en Santa Cruz</chequeable>
+<chequeable>Prácticamente duplicamos el presupuesto del Ministerio de Ciencia y Tecnología</chequeable>
+<chequeable>En la Ciudad de Buenos Aires la litigiosidad cayó el 85% después del cambio en la ley de ARTs</chequeable>
+<chequeable>Somos el país con mayor número de accidentes mortales en el mundo</chequeable>
+<chequeable>Hay un 80% menos de chicos intoxicados con alcohol</chequeable>
+<chequeable>Los que tienen un peso de más, lo gastan</chequeable>
+<chequeable>Cómo operan Clarín y Techint cuando nadie los ve</chequeable>
+<chequeable>la excesiva rentabilidad, producto de la concentración, puede provocar inflación</chequeable>
+<chequeable>El aguinaldo se usará para pagar deudas y vacaciones</chequeable>
+<chequeable>El Gobierno recorta el gasto en cloacas, escuelas y vivienda</chequeable>
+<chequeable>Obama no viene porque la Argentina no quiere comprarle armas a EE.UU.</chequeable>
+<chequeable>Hay una disminución de las tasas de criminalidad que teníamos</chequeable>
+<chequeable>No hay ningún control con la gente que viene a nuestro país</chequeable>
+<chequeable>Los proyectos que pidió Cristina al Congreso están frenados por los K</chequeable>
+<chequeable>Los hospitales públicos gastan un 10% de su presupuesto en los inmigrantes</chequeable>
+<chequeable>Aumentó el robo de ruedas por trabas a las importaciones</chequeable>
+<chequeable>el Gobierno "le empató a Menem" en la reducción de la pobreza</chequeable>
+<chequeable>La Argentina bajó el índice de calidad de sus instituciones"</chequeable>
+<chequeable>C. Fernández es la mandataria que más jueces designó desde la restauración de la democracia</chequeable>
+<chequeable>Córdoba se convirtió en la segunda provincia de cocina de droga y en los últimos años ha crecido el narcotráfico</chequeable>
+<chequeable>El Gobierno respaldará al juez</chequeable>
+<chequeable>Las tierras en manos extranjeras equivalen a la superficie de Italia</chequeable>
+<chequeable>El de las internas fue el proceso electoral más desarreglado en 28 años de democracia</chequeable>
+<chequeable>El presupuesto actual de salud es el más bajo de la historia</chequeable>
+<chequeable>Hay luces amarillas encendidas,  entre ellas la hiperinflación</chequeable>
+<chequeable>Se triplicó, cuadriplicó sic la cantidad de embarazos de pibitas de 12, de 13, de 14 años por la AUH</chequeable>
+<chequeable>Argentina es el país que más armas destruyó en el mundo</chequeable>
+<chequeable>El paco está asesinando de a 200 o 300 chicos por mes</chequeable>
+<chequeable>Algunas se embarazan porque tienen un recurso económico como premio</chequeable>
+<chequeable>La defensa de los DD.HH. debería alcanzar tanto al terrorismo de Estado como al accionar guerrillero</chequeable>
+<chequeable>Somos el segundo país con mayor circulación de dólares, con más de 1300 por habitante</chequeable>
+<chequeable>La cantidad de personas en situación de calle se mantiene estable, con una tendencia a disminuir</chequeable>
+<chequeable>Los índices de criminalidad y de delitos son superiores a los que eran con Solá</chequeable>
+<chequeable>Tenemos el 70% de cobertura de cloacas y agua potable, cuando hace 4 años teníamos el 40%</chequeable>
+<chequeable>La cifra que manejamos de incremento de la matrícula por la AUH es de 120 mil nuevos estudiantes</chequeable>
+<chequeable>La pobreza en Chile está disminuyendo</chequeable>
+<chequeable>El voto electrónico es importante para romper las manipulaciones</chequeable>
+<chequeable>El crecimiento del delito narco tuvo lugar durante los cuatro años de gobierno de Binner y el año de Bonfatti</chequeable>
+<chequeable>Ampliamos, junto a Nación, la cobertura de agua potable y cloacas del 43% a más del 70%</chequeable>
+<chequeable>El protocolo estaba perfectamente cumplido</chequeable>
+<chequeable>El 67% de los chicos que son explotados, son explotados o trabajan en el hogar, o están bajo la dependencia de un familiar</chequeable>
+<chequeable>En casi todos los delitos  hay involucrados menores</chequeable>
+<chequeable>Córdoba se convirtió en la primera cocina de cocaína del país</chequeable>
+<chequeable>En las escuelas que fueron tomadas bajó la inscripción</chequeable>
+<chequeable>Estamos aproximadamente en un 50% de la solución</chequeable>
+<chequeable>"En alimentos y bebidas la desaceleración se empieza sentir de la mano del programa Precios Cuidados"</chequeable>
+<chequeable>Una de cada ocho parejas que se casaron el año pasado se conoció por Internet</chequeable>
+<chequeable>Se robó diez mil millones de euros, sólo el matrimonio Kirchner</chequeable>
+<chequeable>Por sobre el pago de autopartes, las terminales tuvieron US$ 2.800 millones para pagar autos importados</chequeable>
+<chequeable>Con el sistema actual, los procesos duran un promedio no menor a los 4 años</chequeable>
+<chequeable>A partir de los 12.200 policías que están en la Costa los índices de inseguridad bajaron más del 80%</chequeable>
+<chequeable>Bajaron un 35% los homicidios en ocasión de robo</chequeable>
+<chequeable>El 20% de los productores hace el 80% de los granos</chequeable>
+<chequeable>Tenemos más de 100 mil maestros que no trabajan</chequeable>
+<chequeable>El Grupo Veintitrés no es el que más pauta recibe en relación a la cantidad de trabajadores</chequeable>
+<chequeable>El dólar ilegal mueve menos que la quiniela</chequeable>
+<chequeable>En la Provincia han bajado 50% los homicidios en ocasión de robo desde 2014</chequeable>
+<chequeable>Con Scioli como gobernador el narcotráfico aumentó un 40%</chequeable>
+<chequeable>Todas aquellas que reciben una asignación buscan tener otro hijo para tener un poco más de dinero</chequeable>
+<chequeable>Han logrado llevar la desocupación en mi ciudad Rosario del 6% a casi el 12% en solo ocho meses</chequeable>
+<chequeable>En la Villa 31 la tasa de homicidios era ocho veces más grande que el promedio de la Ciudad. Se hizo este operativo antinarco  y bajó así la cantidad de homicidios</chequeable>
+<chequeable>En 15 años se triplicaron las villas en el Conurbano bonaerense</chequeable>
+<chequeable>Dejamos el Gobierno con 5,9% de desocupación</chequeable>
+<chequeable>Es la mayor desocupación en diez años</chequeable>
+<chequeable>En general, nuestras jubilaciones son más altas que las del resto del mundo</chequeable>
+<chequeable>El 50% de los chicos no termina la escuela</chequeable>
+<chequeable>El Instituto de Vivienda porteño sólo ejecutó el 18,6% de su presupuesto anual</chequeable>
+<chequeable>En San Luis, hemos logrado el pleno empleo</chequeable>
+<chequeable>en la Argentina se pagan más impuestos que en Suiza</chequeable>
+<chequeable>Argentina es el país que menos aumentó sus exportaciones</chequeable>
+<chequeable>Los docentes de Santa Cruz perciben el salario más alto del sector en la Argentina</chequeable>
+<chequeable>Un millón de jóvenes no estudia ni trabaja</chequeable>
+<chequeable>Hemos construido viviendas por 90 pesos</chequeable>
+<chequeable>Es la performance de desempleo más baja que hemos tenido en estos 8 años</chequeable>
+<chequeable>La provincia de Buenos Aires recibe menos plata en coparticipación que Córdoba y Santa Fe</chequeable>
+<chequeable>Grecia no es Argentina</chequeable>
+<chequeable>En los últimos tres años hubo 15 muertes sociales</chequeable>
+<chequeable>En 2003 la Argentina destinaba el 5% de su PBI a la deuda y sólo el 2% a la educación. Hoy destina el 2% del PBI a la deuda y 6,47% a la educación</chequeable>
+<chequeable>Tenemos cuatro millones de trabajadores en negro</chequeable>
+<chequeable>El nivel de inversión es el más alto de las últimas décadas y supera al de los años ‘90</chequeable>
+<chequeable>Hoy la Argentina tiene en el mundo el mejor grado de productividad por hectárea sembrada</chequeable>
+<chequeable>La deuda pública en moneda extranjera se redujo al 27,5% del PBI</chequeable>
+<chequeable>Los subsidios son mucho más que todas las retenciones a las exportaciones agropecuarias</chequeable>
+<chequeable>Somos el país que mayor cobertura tiene en materia previsional</chequeable>
+<chequeable>un chequeo a sus anuncios y logros en su discurso</chequeable>
+<chequeable>Los bancos centrales se crearon para financiar al Estado</chequeable>
+<chequeable>se tiran un tercio de los alimentos que se producen en el mundo</chequeable>
+<chequeable>Por cada punto que crece el producto industrial, sube tres puntos el nivel de importaciones</chequeable>
+<chequeable>El que vivía en la villa sigue en la villa y el que alquilaba sigue alquilando</chequeable>
+<chequeable>"La mayoría de los casos de muerte policial son fuera de las horas de servicio"</chequeable>
+<chequeable>Todos los gobernadores tuvieron discusiones con sus vicegobernadores cuando tenían vuelo propio</chequeable>
+<chequeable>Argentina no decrece en el monto de inversiones que recibe de EE.UU. sino que la tendencia es en alza</chequeable>
+<chequeable>Los programas de vivienda han representado desde 2003 un total de más de 900 mil soluciones habitacionales</chequeable>
+<chequeable>El empleo público tiene más personas que todo el empleo de la industria</chequeable>
+<chequeable>Hay una subrepresentación del Gran Buenos Aires en la Cámara de Diputados de la Nación</chequeable>
+<chequeable>Somos la provincia que menos recibe de coparticipación federal</chequeable>
+<chequeable>En los últimos seis meses se destruyeron 328 mil puestos de trabajo</chequeable>
+<chequeable>La Argentina tiene el mejor poder adquisitivo de América Latina para nuestros asalariados</chequeable>
+<chequeable>Hoy hay una gran superpoblación en los penales bonaerenses</chequeable>
+<chequeable>Lo que nos debe la ANSES son 1.307 millones</chequeable>
+<chequeable>El 80% de los trabajadores rurales no está registrado</chequeable>
+<chequeable>La Argentina posee una rotación claramente deficiente</chequeable>
+<chequeable>Somos la provincia del país que más invierte en términos relativos en educación</chequeable>
+<chequeable>No debe haber ciudad en el mundo que no subsidie su transporte público</chequeable>
+<chequeable>Desde el aumento del subte bajaron 300 mil pasajeros diarios</chequeable>
+<chequeable>No es posible que haya el  40% de trabajo precario</chequeable>
+<chequeable>Solo llega a condena el 10% de los delitos económicos</chequeable>
+<chequeable>Hoy otras provincias paradójicamente reciben más que nosotros por el fondo del conurbano</chequeable>
+<chequeable>Solamente el 4% de la carga que se maneja en el país se transporta por tren</chequeable>
+<chequeable>"El fracking está prohibido en varios estados de los Estados Unidos, en Francia, en varios países de Europa"</chequeable>
+<chequeable>Cuando Scioli asumió, de cada $ 100 que ingresaban al Tesoro, $ 51 eran de origen provincial. Hoy por hoy … estamos en 63 por ciento</chequeable>
+<chequeable>Los siniestros viales son la principal causa de muerte no natural de los menores de 25 años</chequeable>
+<chequeable>Hay alrededor de 900 mil jóvenes que no estudian ni trabajan</chequeable>
+<chequeable>Hemos pasado de un 3,64% del PBI en educación a un 6,5% en 2012</chequeable>
+<chequeable>Somos la única provincia que pierde año a año participación en la renta federal</chequeable>
+<chequeable>Con el primer aumento del subte hubo un desplazamiento del 23% a las líneas de colectivos</chequeable>
+<chequeable>En la Argentina hay una diferencia abismal entre la inversión estatal en investigación y desarrollo, y la que hacen los privados</chequeable>
+<chequeable>Del 2003 al 2012, 665% aumentó el salario docente, mientras que la inflación aumentó 365 por ciento</chequeable>
+<chequeable>"La destrucción de empleo en la obra pública no pasa sólo en Santa Cruz sino en todo el país"</chequeable>
+<chequeable>En el Ministerio de Trabajo el 75% de los empleados están precarizados</chequeable>
+<chequeable>Formosa está primera en todos los indicadores sociales negativos</chequeable>
+<chequeable>El sector privado está perdiendo empleos hace más de un año</chequeable>
+<chequeable>La Argentina es el octavo país en el mundo que aporta capitales a paraísos fiscales</chequeable>
+<chequeable>La Argentina tiene la cobertura más alta en jubilaciones de la región</chequeable>
+<chequeable>En cuatro años bajamos un 20% el número de víctimas fatales en siniestros viales</chequeable>
+<chequeable>El sistema de señalización es del año 1921, y los trenes son del año 1960</chequeable>
+<chequeable>El 70% de las noticias sobre jóvenes se publican en la sección policial</chequeable>
+<chequeable>Hace una década había un millón de familias en la Argentina con déficit habitacional. Ese número hoy es dos millones</chequeable>
+<chequeable>Tigre es un municipio que tiene un 40% de superficie de barrios cerrados</chequeable>
+<chequeable>Nosotros tenemos la legislación ambiental petrolera más exigente de la República</chequeable>
+<chequeable>Dicen que van a gravar la renta pero en realidad van a gravar la rentita</chequeable>
+<chequeable>Los giros del Gobierno provincial a los municipios aumentaron un 50% en un año</chequeable>
+<chequeable>Sólo el 20% de los que fueron detenidos tenían trabajo fijo cuando cometieron ese delito</chequeable>
+<chequeable>Los fondos para vivienda de 2013 alcanzaron sólo el 3,07% del total del presupuesto general</chequeable>
+<chequeable>En los últimos dos años no se han generado puestos de trabajo casi en el sector privado</chequeable>
+<chequeable>Somos una provincia récord en materia de reducción de mortalidad infantil</chequeable>
+<chequeable>Casi el 60% de chicos del país recibe fondos de la ANSES</chequeable>
+<chequeable>Un 16% es por disputas de narcotráfico</chequeable>
+<chequeable>Los agentes representan sólo el 10% de los empleados provinciales</chequeable>
+<chequeable>La relación con China implica 90% de exportación en commodities contra 90% de importación en manufacturas</chequeable>
+<chequeable>Las convenciones colectivas de trabajo eran 200 en el año 2002 y ahora son aproximadamente 1500</chequeable>
+<chequeable>Este es el Gobierno que más impuestos cobró en la historia</chequeable>
+<chequeable>"En la Argentina muere más gente producto de un accidente de tránsito que a raíz de un hecho delictivo"</chequeable>
+<chequeable>Hay más personas con sobrepeso que con desnutrición</chequeable>
+<chequeable>El parque automotor, en los últimos diez años,  prácticamente se duplicó</chequeable>
+<chequeable>Dicen que yo dije que no íbamos a pagar, nunca dije eso</chequeable>
+<chequeable>Es mentira que el aumento del salario es el 31%, es mentira que es para los que menos ganan</chequeable>
+<chequeable>Hay más muertes por accidentes de tránsito que por otro tipo de inseguridad delictiva</chequeable>
+<chequeable>Macri triplicó la deuda externa de la Ciudad</chequeable>
+<chequeable>Aún tenemos una ley de responsabilidad penal juvenil que emanó de la dictadura y que ha sido cuestionada por la Corte Suprema</chequeable>
+<chequeable>En la época de Menem no había producción mayorista post cultivo de droga como hay hoy</chequeable>
+<chequeable>Fuerte deterioro del campo en 10 años</chequeable>
+<chequeable>"No hay una relación lógica entre empleados y cantidad de vuelos"</chequeable>
+<chequeable>Fuimos nosotros también los que llevamos de 6 vacunas que había a 16 vacunas</chequeable>
+<chequeable>En Moreno un solo hospital atiende a 500 mil habitantes, mientras que un centro de salud está abandonado </chequeable>
+<chequeable>Cuando llegamos al gobierno teníamos en el calendario seis vacunas y hoy tenemos 16 … y ahora incorporamos tres nuevas</chequeable>
+<chequeable>No hubo ninguna sesión ordinaria, y tuvimos tres sesiones especiales para tratar lo que querían los kirchneristas</chequeable>
+<chequeable>Entre 2010 y 2013 la cantidad invertida en Educación y Salud en Brasil fue de 212 veces más que la cantidad invertida en los estadios</chequeable>
+<chequeable>Hemos duplicado la cantidad de parques industriales</chequeable>
+<chequeable>Desde 2008 el Estado nacional rescató 6.604 víctimas de trata</chequeable>
+<chequeable>El impuesto abarca a un millón de trabajadores en relación de dependencia</chequeable>
+<chequeable>La nueva ley de diabetes le mejora la vida a más de tres millones de argentinos</chequeable>
+<chequeable>La Ley de Bosques no se está cumpliendo, sobre todo en Salta</chequeable>
+<chequeable>La AUH está en el nivel más alto en términos de poder adquisitivo</chequeable>
+<chequeable>Se producen alimentos para 12 mil millones de personas y somos 7 mil</chequeable>
+<chequeable>El DNU de $ 160 mil millones equivale a un tercio de todo el dinero que circula en nuestra economía</chequeable>
+<chequeable>En la Argentina, cinco de cada diez chicos terminan la secundaria</chequeable>
+<chequeable>El rol de las PyMEs en nuestro país es clave</chequeable>
+<chequeable>Con el lanzamiento de ArSat 1 la Argentina va a formar parte de un grupo muy selecto</chequeable>
+<chequeable>El 80% de los crímenes en la ciudad de Rosario no tiene que ver con el narcotráfico</chequeable>
+<chequeable>Tenemos las tarifas más caras del mundo</chequeable>
+<chequeable>Por primera vez en la historia del G-20 la cuestión de la reestructuración de deudas soberanas fue planteada en el comunicado final</chequeable>
+<chequeable>La Argentina registra, desde junio de 2013, 485.000 empleos menos</chequeable>
+<chequeable>El 90% de los siniestros se producen por error humano</chequeable>
+<chequeable>Las campañas fueron iniciadas fuera del tiempo legal</chequeable>
+<chequeable>La infraestructura de control en los puertos de Rosario es absolutamente deficiente</chequeable>
+<chequeable>No hay ningún alumno ni docente que no cuente con una computadora de ‘Conectar Igualdad’</chequeable>
+<chequeable>Hay más muertes por accidentes de tránsito que por otro tipo de inseguridad delictiva</chequeable>
+<chequeable>El desempleo en la Argentina está entre los más altos de la región</chequeable>
+<chequeable>Scioli destinaba el 2,24% del presupuesto provincial a Vialidad, hoy descendió al 1,10%</chequeable>
+<chequeable>Alcanzamos la tasa de mortalidad infantil más baja de la historia</chequeable>
+<chequeable>El aborto es una causa de muerte materna</chequeable>
+<chequeable>El Poder Judicial nunca va a ser popular, porque sería un error que los jueces busquen la popularidad</chequeable>
+<chequeable>San Luis no tiene ninguna villa</chequeable>
+<chequeable>El número de casos de mortalidad infantil en la Ciudad aumentó</chequeable>
+<chequeable>Son 250 mil chicos de los primarios porteños que han recibido su netbook</chequeable>
+<chequeable>Invertimos más de US$1.200 millones en trenes para pasajeros en todo el AMBA</chequeable>
+<chequeable>Naciones Unidas ha recomendado a los Estados miembros que consideren abandonar el uso de armas eléctricas Taser</chequeable>
+<chequeable>La Argentina tiene hoy la mayor presión tributaria de su historia</chequeable>
+<chequeable>Aprenden menos los alumnos del Norte del país</chequeable>
+<chequeable>Cuando Néstor Kirchner llegó al Gobierno … los jubilados representaban el 66%</chequeable>
+<chequeable>Cada 5 minutos una chica menor de 20 años es mamá</chequeable>
+<chequeable>La Argentina es el segundo país en inflación mundial</chequeable>
+<chequeable>Aumentó la desigualdad en la Ciudad. En el sur hay el doble de homicidios por habitante</chequeable>
+<chequeable>Hace 40 años solamente teníamos 8% de pobreza y el 3% de desocupación</chequeable>
+<chequeable>Este Gobierno ha destruido más armas que ningún otro</chequeable>
+<chequeable>En los últimos tres años YPF duplicó la inversión y la actividad</chequeable>
+<chequeable>Nuestro país es el mejor de Latinoamérica para ser madre</chequeable>
+<chequeable>En la Ciudad de Buenos Aires hay más de 500 mil personas en emergencia habitacional"</chequeable>
+<chequeable>Aquí 500 mil chicos al año dejan de estudiar</chequeable>
+<chequeable>Macri cuadruplicó la deuda externa</chequeable>
+<chequeable>Del total de jóvenes que no estudian ni trabajan en la Provincia de Buenos Aires, el 75% son mujeres</chequeable>
+<chequeable>El promedio de salario de los trabajadores es de $6.000, $6.500</chequeable>
+<chequeable>Cristina en su primer gobierno no tuvo ningún paro; en el segundo van a ser cinco</chequeable>
+<chequeable>En la Argentina hoy hay 638 mil niños de 3 a 5 años que no van a la escuela</chequeable>
+<chequeable>"Santa Fe tiene el doble de tasa de homicidios que otras provincias"</chequeable>
+<chequeable>La incidencia de la tasa de delito es 5 veces mayor en el Sur que en el Norte</chequeable>
+<chequeable>"En Educación hoy se gasta en términos reales un 18% más de lo que se gastaba al principio"</chequeable>
+<chequeable>Hoy alrededor de uno de cada 12 o 13 vive en una villa</chequeable>
+<chequeable>Un hito son los 521 acusados de crímenes de lesa humanidad ya condenados o los 1200 en proceso</chequeable>
+<chequeable>El delito, de 2007 para acá, aumentó un 30% en la Provincia</chequeable>
+<chequeable>Sembramos el mismo trigo que hace 100 años</chequeable>
+<chequeable>Manzur es el ministro más rico de la década kirchnerista</chequeable>
+<chequeable>La desnutrición infantil a nivel mundial causa la mitad de las muertes en niños menores de cinco años</chequeable>
+<chequeable>Sólo en la Provincia hay 500 mil jóvenes que no estudian ni trabajan</chequeable>
+<chequeable>Macri triplicó la deuda pública de la Ciudad</chequeable>
+<chequeable>En la Ciudad la ley plantea invertir el 1% en Ciencia y Tecnología, y la inversión real en 2014 fue del 0,001%</chequeable>
+<chequeable>El valor agregado de la distribución en el AMBA es siete veces más bajo que en Río Negro, La Pampa o Córdoba</chequeable>
+<chequeable>La Provincia aporta el 35% del PBI, y recibe menos del 18% de los recursos coparticipables</chequeable>
+<chequeable>Jamás se designó un juez de la Corte en comisión desde la recuperación democrática</chequeable>
+<chequeable>Este año quedaron dos millones de hectáreas sin sembrar. Uruguay siembra en total 1,7 millones</chequeable>
+<chequeable>Ha habido más de siete mil cortes en los últimos 12 años</chequeable>
+<chequeable>Hoy el transporte en el mundo está subsidiado</chequeable>
+<chequeable>Tenemos más de mil prófugos en la Argentina</chequeable>
+<chequeable>La Argentina y Uruguay somos los únicos países que tenemos tan poquitos jueces en la Corte</chequeable>
+<chequeable>Todo el mundo habla del juicio del siglo, pero el reclamo de los holdouts es menos de 2% del PBI</chequeable>
+<chequeable>Son 12.200 empleados en Aerolíneas Argentinas  Hay un exceso</chequeable>
+<chequeable>El Impuesto a las Ganancias afecta a 1.300.000 trabajadores</chequeable>
+<chequeable>La eliminación de las retenciones a la minería se suma a la innumerable lista de ventajas impositivas del sector</chequeable>
+<chequeable>Hoy un chico en la Ciudad tiene su vacante asegurada desde los cuatro años"</chequeable>
+<chequeable>Encontramos una provincia que sólo tenía un 3% del presupuesto en  inversión, la más baja entre todas las provincias</chequeable>
+<chequeable>La Argentina está a punto de emitir la mayor deuda en moneda extranjera de un país en desarrollo desde 1996</chequeable>
+<chequeable>Teníamos dos mil empleados en el Senado y en un año, en 2015, se le sumaron dos mil más</chequeable>
+<chequeable>La mayoría de las causas por drogas que nos llegan son por consumo personal</chequeable>
+<chequeable>En los últimos tres años YPF creció un 35% en producción de gas y un 10% en producción de petróleo</chequeable>
+<chequeable>Los cortes de luz pasaron, de 2003 a 2014, a casi cuadruplicarse</chequeable>
+<chequeable>Hemos triplicado la energía eólica en los Estados Unidos</chequeable>
+<chequeable>La utilidad clínica de los medicamentos que ya no recibirán una cobertura del 100% es muy baja</chequeable>
+<chequeable>La liquidación del campo fue 90% más alta en el primer trimestre que el año anterior</chequeable>
+<chequeable>El Estado gastó $7 mil millones en Fútbol Para Todos</chequeable>
+<chequeable>El promedio entre 2012 y 2016 implicó sólo un crecimiento del 0,6% de los trabajadores formales</chequeable>
+<chequeable>Hoy pagan Ganancias más trabajadores de los que pagaban con el gobierno anterior</chequeable>
+<chequeable>El turismo interno del 2013 al 2015 cayó en tres millones de pasajeros</chequeable>
+<chequeable>La Provincia recibe del Gobierno nacional $5.000 por cada vecino. El promedio del resto de las provincias es $20.000</chequeable>
+<chequeable>"En las causas de corrupción el tiempo promedio de la instrucción es de siete años"</chequeable>
+<chequeable>El total de la disminución de secuestros en CABA y la Provincia es del 19,1%</chequeable>
+<chequeable>La mitad, prácticamente, de los que hoy cobran una pensión o una jubilación es por las moratorias previsionales</chequeable>
+<chequeable>El año pasado se registró en la Ciudad el índice de mortalidad infantil más bajo de la historia</chequeable>
+<chequeable>Aproximadamente, el 60% de la Argentina tiene gas de red y un 40% tiene garrafa</chequeable>
+<chequeable>La Argentina es el único país de América Latina que aumentó el 39% la planta de investigadores</chequeable>
+<chequeable>El trabajo no registrado estaba arriba del 50%, bajó cerca del 30%. Con todos los gobiernos había subido</chequeable>
+<chequeable>Argentina era el tercer exportador mundial de carne, hoy somos el 14°</chequeable>
+<chequeable>Perdimos ocho meses y no se crearon puestos de trabajo</chequeable>
+<chequeable>Macri ha dispuesto que todo el presupuesto de la AFI sea secreto</chequeable>
+<chequeable>Hoy tenemos siete millones de adultos sin secundario completo</chequeable>
+<chequeable>Sólo el 60% de los hogares argentinos tienen acceso a la red de gas natural. El resto consume combustibles más caros</chequeable>
+<chequeable>La Argentina tiene recursos de gas no convencional que la ubica segunda en el ranking mundial después de China</chequeable>
+<chequeable>Los argentinos consumimos 60% más que nuestros vecinos</chequeable>
+<chequeable>Los aumentos de los trabajadores no se produjeron en la misma proporción que el aumento promedio de 203%</chequeable>
+<chequeable>Cinco trans por día tramitan un documento acorde con su aspecto físico</chequeable>
+<chequeable>Hemos aumentado la cantidad de programas sociales</chequeable>
+<chequeable>Hay un millón y medio de pobres más</chequeable>
+<chequeable>El presupuesto 2017 prevé un aumento para la AFI superior al promedio de gastos e inflación</chequeable>
+<chequeable>Hoy el presupuesto tiene más facultades extraordinarias que el anterior</chequeable>
+<chequeable>Sólo el 50% de los argentinos tiene acceso a una cuenta bancaria</chequeable>
+<chequeable>A fines de 2017, el 8% de la matriz eléctrica deberá usar fuentes renovables. Hoy apenas supera el 1%</chequeable>
+<chequeable>Desastres ambientales le cuestan a la Argentina un 8% de su PBI</chequeable>
+<chequeable>En el sector de la construcción se perdieron 60 mil puestos directos de trabajo</chequeable>
+<chequeable>La Argentina hace 30 años era un país de tránsito de drogas; después, de consumo, y hasta algo de producción</chequeable>
+<chequeable>Este año el Gobierno nacional lleva más de 100 leyes aprobadas en minoría</chequeable>
+<chequeable>Bajamos impuestos por 1,6 puntos del PBI, una de las bajas más importantes que se haya hecho</chequeable>
+<chequeable>Todavía la economía no se ha reactivado</chequeable>
+<chequeable>Es el blanqueo más importante de la historia argentina</chequeable>
+<chequeable>Pasó en 2016 que el consumo cayó un 10%</chequeable>
+<chequeable>Ha habido un incremento casi exponencial de la cantidad de litigios pero no ha aumentado la cantidad de accidentes</chequeable>
+<chequeable>En los últimos diez años hemos tenido más de 110 días de paro</chequeable>
+<chequeable>En los últimos diez años cada vez más familias eligen a la escuela privada</chequeable>
+<chequeable>Es el proceso de formalización más importante y más rápido en los últimos años en la Argentina</chequeable>
+<chequeable>Nuevo récord de despacho de asfalto en marzo</chequeable>
+<chequeable>Desendeudé a la mitad a la Provincia de Buenos Aires</chequeable>
+<chequeable>La Argentina tiene hoy el Estado más grande de toda su historia</chequeable>
+<chequeable>La Argentina es el país más cerrado del planeta</chequeable>
+<chequeable>Hoy hay más de 370 policías detenidos por causas que nosotros iniciamos</chequeable>
+<chequeable>En la UOM no hubo puestos de trabajo nuevos</chequeable>
+<chequeable>Terminamos nuestro gobierno con casi el 97% de la población en condiciones de acceder a una jubilación o a una pensión con cobertura</chequeable>
+<chequeable>Este año logramos bajar los cortes de luz 45%</chequeable>
+<chequeable>En el país el 10% más rico tiene ganancias equivalentes a las del 60% más pobre</chequeable>
+<chequeable>La Argentina salió de la recesión</chequeable>
+<chequeable>Gracias al Metrobus, bajaron la cantidad de accidentes</chequeable>
+<chequeable>El Gobierno empezó a dar de baja pensiones por discapacidad</chequeable>
+<chequeable>Este es un Estado que tiene el déficit más alto de los últimos 10 años</chequeable>
+<chequeable>El salario promedio argentino es $11.000. La mitad de los trabajadores gana menos de $9.000</chequeable>
+<chequeable>El SAME llega a siete millones de bonaerenses</chequeable>
+<chequeable>En todo el mundo están abandonando el voto electrónico</chequeable>
+<chequeable>La educación pública perdió chicos en las escuelas</chequeable>
+<chequeable>"Estamos en uno de los países más cerrados del planeta"</chequeable>
+<chequeable>Junto con la Capital Federal recibe más de $80 mil millones en subsidios anuales</chequeable>
+<chequeable>En agosto rompimos el récord histórico de consumo de asfalto vial</chequeable>
+<chequeable>La inversión en la Argentina estuvo estancada</chequeable>
+<chequeable>El presupuesto para inversión social es de los más altos de la democracia argentina</chequeable>
+<chequeable>Estamos entre los cinco países con más riqueza en el exterior</chequeable>
+<chequeable>Hemos cambiado empleo formal por inscripción en el monotributo</chequeable>
+<chequeable>Se exporta menos carne que pesca</chequeable>
+<chequeable>En materia de empleo industrial retrocedimos siete años</chequeable>
+<chequeable>Bonadio es el juez que sobrevivió a 50 denuncias en el Consejo de la Magistratura</chequeable>
+<chequeable>Estamos viendo una continua reducción en los niveles de cortes de luz</chequeable>
+<chequeable>De los 210 mil empleados que tiene el Estado, hay 140 mil que son de planta y 70 mil que son contratados</chequeable>
+<chequeable>El Gobierno tardó todo este tiempo en volver al mismo Producto Bruto Interno de 2015</chequeable>
+<chequeable>El año pasado la inversión creció 11%, fue el mayor de los aumentos en seis años</chequeable>
+<chequeable>La Argentina tiene el salario mínimo vital y móvil más alto de Latinoamérica</chequeable>
+<chequeable>Este año vamos a tener una cosecha récord</chequeable>
+<chequeable>Hemos aumentado la productividad un 5% anual</chequeable>
+<chequeable>Desde el 2003, hemos creado 9 universidades</chequeable>
+<chequeable>Hoy tenemos la misma cantidad de obreros industriales que en los ‘90</chequeable>
+<chequeable>La Argentina tiene el mejor salario mínimo vital y móvil de toda la región</chequeable>
+<chequeable>En la década del ’80 circulaban doce trenes por día entre Buenos Aires y Mar del Plata, hoy sólo dos</chequeable>
+<chequeable>El país construyó en los últimos ocho años 1150 escuelas</chequeable>
+<chequeable>Somos el sexto país de América latina en inversión cuando antes disputábamos el primer lugar</chequeable>
+<chequeable>Lo que más ha crecido en volumen físico han sido las exportaciones industriales</chequeable>
+<chequeable>La reducción de las salideras bancarias está en el orden del 80%</chequeable>
+<chequeable>Santa Fe ha crecido por debajo de la media nacional</chequeable>
+<chequeable>Argentina es el único país de Latinoamérica que no primariza sus exportaciones</chequeable>
+<chequeable>47,7 es el crecimiento de la economía de Chaco en 4 años, versus 50,8 en 57 años anteriores  </chequeable>
+<chequeable>Creamos el mejor nivel de empleo de los últimos 25 años</chequeable>
+<chequeable>Con Cristina, se tocó el piso de leyes votadas por año desde 1983</chequeable>
+<chequeable>Hoy estamos cubriendo al 65% de la población argentina con la TV digital abierta</chequeable>
+<chequeable>La Ciudad genera casi el 25% de los recursos coparticipables y se lleva poco más del 1% de la coparticipación</chequeable>
+<chequeable>Dos de cada tres pesos de nuestro presupuesto se destinan a la inversión social</chequeable>
+<chequeable>"Hemos importado más que nunca"</chequeable>
+<chequeable>Somos el único país de Latinoamérica que no maneja sus recursos naturales</chequeable>
+<chequeable>El esquema tributario provincial es altamente regresivo</chequeable>
+<chequeable>La inversión pública significó en los últimos 9 años aproximadamente 4 o 5 puntos del PBI por año</chequeable>
+<chequeable>Si vamos al … homicidio, la Argentina, según datos de Naciones Unidas, está muy por debajo de otros países latinoamericanos"</chequeable>
+<chequeable>De las 32 leyes votadas desde diciembre, 23 las envió el Gobierno</chequeable>
+<chequeable>Por cada punto que crece el producto, las importaciones crecen tres puntos</chequeable>
+<chequeable>Hoy el 75% de la población está en condiciones de recibir la televisión digital</chequeable>
+<chequeable>La ley de superpoderes está vigente desde 2006 y nunca ningún jefe de Gabinete la utilizó en más del 1,5 o 1,8% del monto total del presupuesto</chequeable>
+<chequeable>La industria es sólo del 17% del PBI, igual que en la década del 90"</chequeable>
+<chequeable>Los impuestos progresivos representaban el 23% en los ´90, y ahora representan el 43% del total de la recaudación</chequeable>
+<chequeable>Cuando yo iba a la escuela secundaria asistía menos del 40% de los jóvenes de mi edad, hoy asisten el 82%</chequeable>
+<chequeable>El salario mínimo va a estar en $ 2800 y se cuenta como ocupados a trabajadores que están cobrando $ 1700</chequeable>
+<chequeable>La demanda eléctrica se expandió un 41% entre el 2003 y el 2011, casi un 50% más que en la fase neoliberal</chequeable>
+<chequeable>La Argentina no registra cifras alarmantes de criminalidad en relación con las de la región</chequeable>
+<chequeable>Se han rescatado casi 4000 chicas víctimas de la trata desde el 2008</chequeable>
+<chequeable>Redujimos la basura en un 5%"</chequeable>
+<chequeable>Hoy las emisiones de dióxido de carbono de los países avanzados  son más de 35 veces las de los países de menores ingresos</chequeable>
+<chequeable>El 90% de lo que exportamos a China son productos primarios, y el 90% de lo que le importamos son bienes industriales</chequeable>
+<chequeable>Desde la crisis hasta hoy el salario básico del sector industrial subió 10 veces, mientras que la inflación … subió seis veces</chequeable>
+<chequeable>Tomar declaraciones indagatorias fuera del país no afecta nuestra soberanía y es algo que se ha hecho varias veces</chequeable>
+<chequeable>En 2011 la Argentina tuvo el récord histórico de inversión de toda la serie</chequeable>
+<chequeable>Buenos Aires recauda $ 62 mil millones de recursos genuinos; de los cuales, 5.300 corresponden a inmobiliario y 4 mil a automotor</chequeable>
+<chequeable>La inversión en Educación ha tenido un correlato en la baja de deserción en el secundario</chequeable>
+<chequeable>Lo que más viene creciendo en términos de exportación son las manufacturas de origen industrial</chequeable>
+<chequeable>Ya no habrá más necesidad de buscar consenso para elegir un juez o para destituirlo</chequeable>
+<chequeable>El Consejo de la Magistratura  no funciona, está frenado</chequeable>
+<chequeable>En 2012 se usaron más de $100 mil millones en subsidios y la AUH fue 9 veces menos que esa suma</chequeable>
+<chequeable>En 2012 tuvimos un superávit comercial histórico, superior a los 10 mil millones de dólares</chequeable>
+<chequeable>En estos diez años, el egreso de las universidades creció un 68% en la Argentina</chequeable>
+<chequeable>Perdimos casi 12 millones de cabezas, que es el stock completo del Uruguay</chequeable>
+<chequeable>Argentina tuvo en 2012 la Inversión Extranjera Directa más importante de toda la década</chequeable>
+<chequeable>Las transferencias a municipios crecieron 260%, y son el 20% de los ingresos coparticipables</chequeable>
+<chequeable>El último Censo Nacional muestra una clara reversión en la población sin agua potable y sin cloacas</chequeable>
+<chequeable>"En un año el delito con armas creció el 22% en la Provincia de Buenos Aires"</chequeable>
+<chequeable>La pasada es la única década en la que se fueron los chicos de los colegios públicos</chequeable>
+<chequeable>Son muchos menos ahora de los que había en 2003</chequeable>
+<chequeable>Todavía en la Argentina el 55% de los que trabajan se llevan al bolsillo $3200</chequeable>
+<chequeable>En la década  se cerraron 125 frigoríficos</chequeable>
+<chequeable>El 75% de los jubilados cobra 2150 pesos</chequeable>
+<chequeable>Venimos sosteniendo una producción importantísima, alrededor de los 12 mil millones de litros de leche</chequeable>
+<chequeable>La única vez que la Argentina pudo sostener un crecimiento económico sostenido fue desde el año 1860 a 1930</chequeable>
+<chequeable>Nosotros trabajamos por un país donde los chicos de 15 años comprendan lo que leen, y no sólo la mitad de ellos como pasa hoy</chequeable>
+<chequeable>Argentina hoy es el tercer exportador mundial de cocaína</chequeable>
+<chequeable>El kirchnerismo en diez años no construyó un kilómetro de vía</chequeable>
+<chequeable>No es cierto que el 70% de la población chaqueña no tenga agua potable. Es falso</chequeable>
+<chequeable>"Bajamos de más de 6 mil toneladas a 3.800 toneladas que tenemos que disponer"</chequeable>
+<chequeable>La Argentina tiene la cobertura previsional más alta de la región</chequeable>
+<chequeable>El 75% de los jubilados cobra la mínima de 2.477 pesos</chequeable>
+<chequeable>Estamos cubriendo el 100% de las vacantes para los chicos que tienen 4 años o más, por encima del promedio de la OCDE</chequeable>
+<chequeable>Desde 2003 hasta acá, las tasas municipales son las que menos han acompañado la inflación</chequeable>
+<chequeable>Hay más de 5 millones de trabajadores que no están registrados</chequeable>
+<chequeable>Tres de cada mil personas que hoy están cometiendo un delito van a ir a la cárcel</chequeable>
+<chequeable>El porcentaje invertido en 2010 en Educación, Ciencia y Tecnología es casi idéntico al del período 1999-2001</chequeable>
+<chequeable>En el Fuero Penal entran 15 mil causas. Ahí arranca un sistema perverso, porque usted no puede cumplir plazos y tiene que demorar causas</chequeable>
+<chequeable>Esta deuda con el sector privado en dólares está alrededor del 8%, es de las más bajas de la serie histórica</chequeable>
+<chequeable>En la Justicia Federal las vacantes oscilan en el 30%</chequeable>
+<chequeable>Entre 2001 y 2012, la Argentina fue el tercer proveedor mundial de cocaína</chequeable>
+<chequeable>La compañía que últimamente ha aumentado más los precios es YPF</chequeable>
+<chequeable>La Ciudad genera casi el 25% de los recursos coparticipables y se lleva poco más del 1% de coparticipación</chequeable>
+<chequeable>Con lo que este Gobierno gasta cada mes en propaganda, se podría pagar el sueldo de 50 mil trabajadores</chequeable>
+<chequeable>El Código se aplica a partir de su sanción y de su implementación para los casos futuros</chequeable>
+<chequeable>Yo reduje un 50% los homicidios dolosos y un 30%, el robo automotor</chequeable>
+<chequeable>En el último año se fueron de las escuelas públicas casi 50 mil alumnos</chequeable>
+<chequeable>Argentina, entre los países con más deserción en la secundaria</chequeable>
+<chequeable>En dos años hemos fabricado el yacimiento que produce más petróleo no convencional en el mundo fuera de EEUU</chequeable>
+<chequeable>La publicidad en la Ciudad aumenta siempre por encima del incremento general de los gastos</chequeable>
+<chequeable>Hoy hay cinco millones de personas con planes</chequeable>
+<chequeable>Impulsamos una política de seguridad que permitió reducir los homicidios dolosos</chequeable>
+<chequeable>En Provincia, se perdieron 271.000 empleos en un año</chequeable>
+<chequeable>Nueve de cada diez votaciones en el Parlamento las hemos hecho con el PRO</chequeable>
+<chequeable>La empresa tiene todos sus balances presentados, auditados y aprobados por la AGN</chequeable>
+<chequeable>"De cada $100 que los misioneros pagan de impuestos, $76 se los lleva Cristina"</chequeable>
+<chequeable>Nadie paga el impuesto a las ganancias en el Poder Judicial</chequeable>
+<chequeable>Tres o cuatro pibes de cada 10 dejan la escuela. Y los que abandonan quedan fuera</chequeable>
+<chequeable>Todas las ciudades grandes del mundo tienen una sola policía</chequeable>
+<chequeable>El Gobierno nacional no hace públicas las estadísticas sobre el delito desde 2009. El gobierno de la Ciudad tampoco</chequeable>
+<chequeable>En Aerolíneas viaja el 3% de la población</chequeable>
+<chequeable>No han llegado ni al 40% de lo que habían prometido</chequeable>
+<chequeable>Se multiplicó 11 veces, desde el 2006, la presión tributaria sobre los trabajadores y solo 6 veces sobre las empresas</chequeable>
+<chequeable>El 6,6% es la tasa de desempleo más baja registrada desde 1991</chequeable>
+<chequeable>$11 millones por día se van en publicidad oficial</chequeable>
+<chequeable>De los ocho años de Scioli como Gobernador, los chicos de escuelas estatales tuvieron siete años de clase. Pasa lo mismo en la Ciudad</chequeable>
+<chequeable>Realizamos la mayor campaña de reclutamiento y renovación policial de todos los tiempos</chequeable>
+<chequeable>En la Ciudad aumentó la mortalidad infantil</chequeable>
+<chequeable>Aumenta sistemáticamente la matrícula de la escuela pública de la Ciudad</chequeable>
+<chequeable>Me tocó estar en el Central la última vez que bajó fuertemente la inflación</chequeable>
+<chequeable>Desde que se instauró el cepo en la Argentina hubo una devaluación del 230%</chequeable>
+<chequeable>Después de la visita de Moreno a Angola el comercio externo con Angola bajó el 37%</chequeable>
+<chequeable>Estamos 106, entre 142 países, en el Índice de Competitividad Global del Foro Económico Mundial</chequeable>
+<chequeable>La Argentina hoy tiene un bajísimo intercambio con los Estados Unidos</chequeable>
+<chequeable>La Argentina se ha transformado en el tercer país exportador de coca</chequeable>
+<chequeable>Todos los meses sistemáticamente viene aumentando la venta de autos a nivel local</chequeable>
+<chequeable>El PRO en varias elecciones ha superado el cupo femenino</chequeable>
+<chequeable>Hoy hay 1,5 millones de hogares que tienen acceso a la tarifa social del gas. Antes eran solo 275 mil</chequeable>
+<chequeable>No puede ser que los hogares más pudientes gasten 20 veces más gas que los humildes</chequeable>
+<chequeable>Hoy el Estado tiene la responsabilidad de pagarle a diez millones de personas más que en el 2002</chequeable>
+<chequeable>El 83% de los argentinos ve el fútbol por cable</chequeable>
+<chequeable>El Gobierno anterior había concentrado como nunca antes en la historia los recursos en el poder central</chequeable>
+<chequeable>Scioli pagó por publicidad oficial $1.500 millones en 2015</chequeable>
+<chequeable>Hoy la cantidad de asesinatos cada 100 mil personas es mayor en Santa Fe que en Rosario</chequeable>
+<chequeable>Estamos en un año récord en todo lo que es incautación de cocaína, éxtasis y metanfetaminas</chequeable>
+<chequeable>"El 4,5% de la población argentina está en las universidades y 3,5% está en las universidades públicas y gratuitas"</chequeable>
+<chequeable>La herencia que hemos recibido es crítica. El 57% de las vías está en estado malo o muy malo</chequeable>
+<chequeable>Hoy Aerolíneas Argentinas nos cuesta a todos los argentinos dos jardines de infantes por semana</chequeable>
+<chequeable>Hemos logrado  que nos estemos pudiendo endeudar en pesos a la tasa más baja de la historia argentina</chequeable>
+<chequeable>Un chico de 13 años  en la Argentina no tiene ley de víctimas, no puede ser parte del proceso</chequeable>
+<chequeable>Es el presupuesto de mayor inversión social de los últimos 50 años de la República Argentina</chequeable>
+<chequeable>El salario ha caído alrededor del 8%</chequeable>
+<chequeable>Por las medidas ya tomadas por el Gobierno el gasto de Promoción y Asistencia Social crecerá un 37% en 2017</chequeable>
+<chequeable>El acuerdo con los empresarios no funcionó. Tenemos cerca de 130 mil despidos</chequeable>
+<chequeable>En el presupuesto sancionado de cada diez pesos seis están destinados a inversión social</chequeable>
+<chequeable>Vaca Muerta representa la 2º reserva mundial de gas y la 4º de petróleo no convencional</chequeable>
+<chequeable>La relación entre los delitos cometidos y las personas condenadas es menor al 1%</chequeable>
+<chequeable>Hace varios meses crece el empleo en la Argentina</chequeable>
+<chequeable>La Argentina tiene un nivel de endeudamiento muy bajo con el sector privado, de apenas 26% del PBI</chequeable>
+<chequeable>En el tema de las drogas, los extranjeros suben del 6% de los presos al 33%</chequeable>
+<chequeable>El gobierno de Macri es el que más ministerios ha creado</chequeable>
+<chequeable>Hace cinco años que el país no crece</chequeable>
+<chequeable>Aumentamos 100% los montos que enviamos a los comedores escolares</chequeable>
+<chequeable>En 15 meses, el salario mínimo docente aumentó un 73%</chequeable>
+<chequeable>Es la primera vez desde el año 75 que cae el producto bruto interno, o sea cae la actividad, y suben las importaciones</chequeable>
+<chequeable>Hace ocho o nueve meses que crece el empleo en la Argentina</chequeable>
+<chequeable>Desde agosto para acá hemos creado 82 mil nuevos puestos de trabajo formales</chequeable>
+<chequeable>Cada vez hay más déficit y cada vez estamos más endeudados</chequeable>
+<chequeable>El pago de intereses de la deuda ya supera el de la inversión en educación y salud sumadas</chequeable>
+<chequeable>Los medicamentos más consumidos por los jubilados en los últimos dos años tuvieron un aumento promedio de 99%</chequeable>
+<chequeable>En la última elección los resultados los tuvimos al mediodía del día siguiente</chequeable>
+<chequeable>Está aumentando el nivel del poder adquisitivo mes a mes</chequeable>
+<chequeable>El año pasado contrajimos más deuda que China</chequeable>
+<chequeable>Por primera vez en la historia, en 2017 el porcentaje de condenados superó al de procesados</chequeable>
