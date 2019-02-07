@@ -28,7 +28,7 @@ def classify(classifier,sentence):
 
 # CONSTANTS
 
-MODEL_NAME = "classifier-2018-12-1.pickle"
+MODEL_NAME = "classifier-2018-12-06.pickle"
 
 SENTENCES = [
     "El 99% de la gente que muere por un arma de fuego en la Argentina muere en manos de un delincuente que la asesina",
@@ -73,17 +73,43 @@ SENTENCES = [
     "Entre el 2010 y el 2014 se produjeron en todo el mundo alrededor de 25 millones de abortos peligrosos, casi la mitad de los abortos totales",
     "Hay tantas miles de personas que quieren adoptar y miles de niños que quieren un hogar",
     "La provincia del Chaco tiene diez puntos más de tasa de embarazo adolescente que el promedio del país",
-    "Esta es la realidad que tenemos en Corrientes: una tasa de mortalidad materna que cuadruplica la nacional",
+    "Esta es la realidad que tenemos en Corrientes una tasa de mortalidad materna que cuadruplica la nacional",
     "Se estiman entre 44 mil y 53 mil egresos hospitalarios anuales por abortos con complicaciones",
-    "Las estadísticas muestran que hay otros factores que la reducen. Chile tiene una mortalidad menor a la argentina con una ley mucho más restrictiva"
+    "Las estadísticas muestran que hay otros factores que la reducen Chile tiene una mortalidad menor a la argentina con una ley mucho más restrictiva"
 ]
 
 # TEST
+import csv
+import re 
+
+FACT_CHECKABLE_REGEX = re.compile('".*?"') #non greedy regex
 
 if __name__=='__main__':
-    classifier1 = load_classifier(MODEL_NAME)
+    classifier = load_classifier(MODEL_NAME)
 
+    classifications = []
     for sentence in SENTENCES:
         print(sentence)
-        print(classify(classifier1,sentence))
+        classification = classify(classifier,sentence)
+        classifications.append(classification[0])
+        print(classification)
         print("****")
+    """
+    sentences = []
+    with open('data/fc_2018_dump.csv', 'rb') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            quotes = FACT_CHECKABLE_REGEX.findall(row['sentence'])
+            if quotes:
+                for quote in quotes:
+                    freeling =  row['fc_predict']
+                    spacy = classify(classifier,quote)[0]
+                    sentences.append({'sentence':row['sentence'],'quote':quote, 'freeling':freeling,'spacy':spacy})
+                    if freeling != spacy:
+                        print(row['sentence'])
+                        print(quote)
+                        print("F: "+freeling)
+                        print("S: "+spacy)
+                        print("***")
+    """
+    import pdb; pdb.set_trace()

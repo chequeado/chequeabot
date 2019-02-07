@@ -7,13 +7,9 @@
 
 
 import MySQLdb
-
 from credentials import CONN_DATA
 
 class MySQLPipeline(object):
-
-    collection_name = 'news_items'
-
     def __init__(self):
         self.conn = MySQLdb.connect(user = CONN_DATA['user'], \
             passwd = CONN_DATA['password'], \
@@ -22,12 +18,10 @@ class MySQLPipeline(object):
             charset='utf8')
         
         self.cur = self.conn.cursor()
-#
 
     def close_spider(self, spider):
         self.cur.close()
         self.conn.close()
-
 
     def process_item(self, item, spider):
         query = """SELECT EXISTS(SELECT 1 FROM feed_entries WHERE url = '%s')""" % item['noticia_url']

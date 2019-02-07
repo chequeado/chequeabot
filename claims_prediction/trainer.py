@@ -26,18 +26,22 @@ def get_tagged_sentences(folder):
             parsed_sentences = parsed_sentences + pickle.load(tagged_file)
     return parsed_sentences 
     
-def dump_classifier(folder, classifier):
+def dump_classifier(folder, classifier,description=""):
     # Once created, it will dump the clasifier into a pickle.
     # Change the name to whatever you see fit
     name = 'classifier-%s.pickle' % date.today() 
     f = open(folder + name, 'wb')
     pickle.dump(classifier, f)
     f.close()    
+    #dumps the descriptino in a txt file
+    f_desc = open(folder + name.replace("pickle","txt"),"w+")
+    f_desc.write(description)
+    f_desc.close()
     
 def show_metrics(classifier, test_set):    
+    description = ""
     # Given a classifier and a set to test it, it will print metrics for the classifier
-
-    print("Accuracy: " + str(nltk.classify.accuracy(classifier, test_set)))
+    description = description + "\n" + "Accuracy: " + str(nltk.classify.accuracy(classifier, test_set))
 
     # Creates two sets: one with references (correct results) and other with tests (classifier predictions)
     # This sets are divided in fact-checkable and non-fact-checkable sets that contain a unique id (integer)
@@ -53,17 +57,21 @@ def show_metrics(classifier, test_set):
     model_recall =  int(recall(refsets['fact-checkable'], testsets['fact-checkable'])*100)
     model_f_measure =  int(f_measure(refsets['fact-checkable'], testsets['fact-checkable'],0.3)*100)
     
-    print("PRECISION: Of the sentences predicted fact-checkable, " + str(model_precision) + "% were actually fact-checkable")
-    print("RECALL: Of the sentences that were fact-checkable, " + str(model_recall) + "% were predicted correctly")
-    print("F-MEASURE (balance between precission and recall): " + str(model_f_measure) + "%")
+    description += "\n" + "PRECISION: Of the sentences predicted fact-checkable, " + str(model_precision) + "% were actually fact-checkable"
+    description += "\n" + "RECALL: Of the sentences that were fact-checkable, " + str(model_recall) + "% were predicted correctly"
+    description += "\n" + "F-MEASURE (balance between precission and recall): " + str(model_f_measure) + "%"
 
     # Same for non fact-checkables
     #print('non-fact-checkable precision:', precision(refsets['non-fact-checkable'], testsets['non-fact-checkable']))
     #print('non-fact-checkable recall:', recall(refsets['non-fact-checkable'], testsets['non-fact-checkable']))
     #print('non-fact-checkable F-measure:', f_measure(refsets['non-fact-checkable'], testsets['non-fact-checkable']))
 
+    print(description)
+
     # informative
     classifier.show_most_informative_features(25)
+
+    return description
 
 def split_dataset(dataset):
     # Given a dataset, it will split it according to test and train percentage
@@ -99,8 +107,8 @@ if __name__ == "__main__":
     # Train again a model for specific metrics
     train_set, test_set = split_dataset(dataset)
     classifier = nltk.NaiveBayesClassifier.train(train_set)
-    show_metrics(classifier,test_set)
+    description = show_metrics(classifier,test_set)
 
     # finally train the model with the full dataset
     classifier = nltk.NaiveBayesClassifier.train(dataset)
-    dump_classifier(CLASSIFIERS_FOLDER, classifier)
+    dump_classifier(CLASSIFIERS_FOLDER, classifier,description)
