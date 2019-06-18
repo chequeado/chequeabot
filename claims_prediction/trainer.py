@@ -7,7 +7,7 @@ import glob
 import re
 import nltk
 from nltk.metrics.scores import precision, recall, f_measure
-from datetime import date
+from datetime import datetime
 from random import shuffle
 import sys
 
@@ -29,7 +29,7 @@ def get_tagged_sentences(folder):
 def dump_classifier(folder, classifier,description=""):
     # Once created, it will dump the clasifier into a pickle.
     # Change the name to whatever you see fit
-    name = 'classifier-%s.pickle' % date.today() 
+    name = 'classifier-%s.pickle' % datetime.now().strftime('%Y-%m-%d-%H-%M')
     f = open(folder + name, 'wb')
     pickle.dump(classifier, f)
     f.close()    
