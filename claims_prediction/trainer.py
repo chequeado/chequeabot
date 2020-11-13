@@ -69,7 +69,7 @@ def show_metrics(classifier, test_set):
     print(description)
 
     # informative
-    classifier.show_most_informative_features(25)
+    #classifier.show_most_informative_features(25)
 
     return description
 
