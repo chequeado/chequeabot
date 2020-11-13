@@ -13,7 +13,7 @@ def automatic_feature_extractor(spacy_tag, pos_ngrams=False):
 
     for tagged_word in spacy_tag:
         #pos, lemma, text, tag, dep ,is_punct, like_num, tense
-        if tagged_word['is_punct'] and tagged_word['lemma'].encode('utf8') not in "%¿?":
+        if tagged_word['is_punct'] and tagged_word['lemma'] not in "%¿?":
             continue
 
         features[tagged_word['pos']] = True
@@ -22,7 +22,7 @@ def automatic_feature_extractor(spacy_tag, pos_ngrams=False):
         features[tagged_word['tense']] = True
 
         if is_int(tagged_word['lemma']):
-            number_of_digits = len(str(tagged_word['lemma'].encode('utf8')))
+            number_of_digits = len(str(tagged_word['lemma']))
             features['%s_digits' %number_of_digits] = True
 
     if pos_ngrams:        

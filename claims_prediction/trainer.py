@@ -23,7 +23,7 @@ def get_tagged_sentences(folder):
     parsed_sentences = []
     for filename in glob.glob(folder + '*.pickle'):
         with open(filename, 'rb') as tagged_file:
-            parsed_sentences = parsed_sentences + pickle.load(tagged_file)
+            parsed_sentences = parsed_sentences + pickle.load(tagged_file, encoding="latin-1")
     return parsed_sentences 
     
 def dump_classifier(folder, classifier,description=""):
@@ -91,6 +91,7 @@ def split_dataset(dataset):
 if __name__ == "__main__":
     # Load the dataset from pickles and extract features
     tagged_sentences = get_tagged_sentences(POS_TAGGED_FOLDER)
+    
     dataset = [(automatic_feature_extractor(sent['pos_tag'], pos_ngrams=True), sent['classification']) for sent in tagged_sentences]
     
     # Train the classifier on "n" folds and establish an average accuracy
